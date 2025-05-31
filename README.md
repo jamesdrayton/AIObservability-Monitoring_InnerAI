@@ -15,12 +15,12 @@ Amogh Thoutu, Farhan Mahamud, Shubhangi Singh, Bardia Azami
 
 AWS Codes:
 
-James Drayton Beninger: PC1SCOOIIVFAIJ3 
+James Drayton Beninger: XXXXXXXXXXX 
 
-Amogh Thoutu: PCUG65SWXTEIVL 
+Amogh Thoutu: XXXXXXXXXXX 
 
-Farhan Mahamud : PC3T4WL3J1EKSK1 
+Farhan Mahamud : XXXXXXXXXXX 
 
-Shubhangi Singh : PC1RVVRAI94WLHN 
+Shubhangi Singh : XXXXXXXXXXX 
 
-Bardia Azami : PC3P323PSKMP6CY 
+Bardia Azami : XXXXXXXXXXX 
