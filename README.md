@@ -25,7 +25,7 @@ Shubhangi Singh : XXXXXXXXXXX
 
 Bardia Azami : XXXXXXXXXXX 
 
-Track 2: AI Observability & Monitoring
+Track 2: AI Observability & Monitoring</br>
 ● Theme: Build observability for a deployed GenAI application.
 Project Idea:
 o Create a monitoring system for a deployed GenAI API (e.g., chatbot or image
