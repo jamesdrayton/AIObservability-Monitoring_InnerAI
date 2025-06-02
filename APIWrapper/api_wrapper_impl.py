@@ -1,10 +1,13 @@
 # Gemini Wrapper 
 
+import json
 import time
 import logging
 import google.generativeai as genai
 
 # Configure logging
+# TODO: Create a threshold of changes for relevance before adding to log to prevent file bloat.
+# Currently logs even when insignificant changes are happening (1 change detected per second)
 logging.basicConfig(
     filename="gemini_calls.log",
     level=logging.INFO,
@@ -46,14 +49,17 @@ class APIWrapper:
             )
             duration = time.time() - start_time
 
-            log_entry.update({
+            json_log_entry = {
                 "response": response.text.strip(),
                 "latency_sec": round(duration, 3),
                 "status": "success"
-            })
+            }
+            log_entry.update(json_log_entry)
+            with open("updated_data.json", "w") as f:
+                json.dump(log_entry, f)
 
             logging.info(log_entry)
-            # TODO: MAKE CALLS TO OTHER MODULES WRAPPING PROMPT FOR METRICS HERE.
+            # TODO: CALL METRICS HERE. USE log_entry for information to work with.
             # Calls to metrics tracking are asynchronous and return promises
             return response.text.strip()
 
