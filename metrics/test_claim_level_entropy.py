@@ -95,23 +95,31 @@ def compute_entropy(claim, answers):
     entropy = -sum((count / total) * math.log2(count / total) for count in label_counts.values() if count > 0)
     return entropy, labels
 
+
 def get_verdict(entropy, labels):
     majority_label = Counter(labels).most_common(1)[0][0]
-    
-    if majority_label == 2:
-        return "LIKELY TRUE"
-    elif majority_label == 0:
-        return "LIKELY FALSE"
-    elif entropy < 0.5:
-        return "LIKELY FALSE"
+
+    if entropy < 0.5:
+        if majority_label == 2:
+            return "LIKELY TRUE"
+        elif majority_label == 0:
+            return "LIKELY FALSE"
+        else:
+            return "POSSIBLY TRUE"  # Neutral majority but low entropy → mild trust
+
     elif entropy < 0.7:
-        return "POSSIBLY FALSE"
+        if majority_label == 2:
+            return "POSSIBLY TRUE"
+        elif majority_label == 0:
+            return "POSSIBLY FALSE"
+        else:
+            return "UNKNOWN"  # Neutral and mid entropy → very unsure
+
     elif entropy < 1.0:
-        return "POSSIBLY TRUE"
-    else:
         return "UNKNOWN"
 
-
+    else:
+        return "UNKNOWN"
 def is_potential_claim(sentence: str) -> bool:
     if not sentence or sentence.strip() == "":
         return False
