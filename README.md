@@ -37,6 +37,7 @@ https://docs.google.com/document/d/11zHLGLNiTjiFe3ZNxA3lkbRvfso0iWw7NkKMGZmBAxE/
 Packages: <br>
 conda install conda-forge::fastapi <br>
 conda install conda-forge::langchain <br>
+conda install anaconda::prometheus_client <br>
 ftpdf <br>
 google.generativeai <br> 
 weasyprint <br>
