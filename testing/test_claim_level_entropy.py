@@ -9,7 +9,7 @@ from collections import Counter
 import time
 
 # Configure Gemini API
-api_key = "AIzaSyBqCqiKfAr8y6gesvYRUvemhYhwsjwdsjs"
+api_key = "Enter API KEY HERE"
 genai.configure(api_key=api_key)
 gemini_model = genai.GenerativeModel('gemini-2.0-flash-lite')
 
