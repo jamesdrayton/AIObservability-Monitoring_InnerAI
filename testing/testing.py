@@ -3,6 +3,9 @@ from ..APIWrapper import APIWrapper
 
 import google.generativeai as genai
 
+
+# TODO: Add user feedback
+
 router = APIRouter()
 
 # TODO: INSERT YOUR GEMINI_API_KEY HERE, make sure to sign up for a free one if not using the group one
@@ -23,7 +26,7 @@ async def gem():
 async def testprompt(userprompt: str):
     # modify the given prompt made to api calls here (call the api wrapper function)
     finalprompt = userprompt + "please include the sentence 'inserted additional string' into your response"
-    response = prompt_middleware.generate(prompt=finalprompt)
+    response = prompt_middleware.generate(prompt=userprompt)
     return response
 
 # FastAPI flag for post request (HTTP requests which send a prompt and do not need the response)

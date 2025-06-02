@@ -7425,3 +7425,1812 @@
 2025-06-02 14:17:28,901 | INFO | 1 change detected
 2025-06-02 14:17:29,271 | INFO | 1 change detected
 2025-06-02 14:17:29,689 | INFO | 1 change detected
+2025-06-02 15:01:43,136 | INFO | Will watch for changes in these directories: ['C:\\Users\\Owner1\\Desktop\\AIObservability-Monitoring_InnerAI']
+2025-06-02 15:01:43,138 | INFO | Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2025-06-02 15:01:43,139 | INFO | Started reloader process [484] using WatchFiles
+2025-06-02 15:01:44,784 | INFO | Started server process [5076]
+2025-06-02 15:01:44,785 | INFO | Waiting for application startup.
+2025-06-02 15:01:44,787 | INFO | Application startup complete.
+2025-06-02 15:04:07,036 | INFO | 1 change detected
+2025-06-02 15:04:07,037 | WARNING | WatchFiles detected changes in 'APIWrapper\api_wrapper_impl.py'. Reloading...
+2025-06-02 15:04:07,141 | INFO | Shutting down
+2025-06-02 15:04:07,248 | INFO | Waiting for application shutdown.
+2025-06-02 15:04:07,250 | INFO | Application shutdown complete.
+2025-06-02 15:04:07,252 | INFO | Finished server process [5076]
+2025-06-02 15:04:07,835 | INFO | 1 change detected
+2025-06-02 15:04:08,197 | INFO | 1 change detected
+2025-06-02 15:04:08,556 | INFO | 5 changes detected
+2025-06-02 15:04:08,913 | INFO | 1 change detected
+2025-06-02 15:04:09,272 | INFO | 1 change detected
+2025-06-02 15:04:09,632 | INFO | 1 change detected
+2025-06-02 15:04:09,990 | INFO | 1 change detected
+2025-06-02 15:04:10,350 | INFO | 1 change detected
+2025-06-02 15:04:10,707 | INFO | 1 change detected
+2025-06-02 15:04:11,111 | INFO | 1 change detected
+2025-06-02 15:04:11,465 | INFO | 1 change detected
+2025-06-02 15:04:11,824 | INFO | 1 change detected
+2025-06-02 15:04:12,183 | INFO | 1 change detected
+2025-06-02 15:04:12,592 | INFO | 1 change detected
+2025-06-02 15:04:12,999 | INFO | 1 change detected
+2025-06-02 15:04:13,403 | INFO | 1 change detected
+2025-06-02 15:04:13,809 | INFO | 1 change detected
+2025-06-02 15:04:14,215 | INFO | 1 change detected
+2025-06-02 15:04:14,619 | INFO | 1 change detected
+2025-06-02 15:04:15,023 | INFO | 1 change detected
+2025-06-02 15:04:15,427 | INFO | 1 change detected
+2025-06-02 15:04:15,781 | INFO | 1 change detected
+2025-06-02 15:04:16,138 | INFO | 1 change detected
+2025-06-02 15:04:16,497 | INFO | 1 change detected
+2025-06-02 15:04:16,853 | INFO | 1 change detected
+2025-06-02 15:04:17,265 | INFO | 1 change detected
+2025-06-02 15:04:17,669 | INFO | 1 change detected
+2025-06-02 15:04:18,075 | INFO | 1 change detected
+2025-06-02 15:04:18,430 | INFO | 1 change detected
+2025-06-02 15:04:18,787 | INFO | 1 change detected
+2025-06-02 15:04:19,145 | INFO | 1 change detected
+2025-06-02 15:04:19,551 | INFO | 1 change detected
+2025-06-02 15:04:19,955 | INFO | 1 change detected
+2025-06-02 15:04:20,364 | INFO | 1 change detected
+2025-06-02 15:04:20,769 | INFO | 1 change detected
+2025-06-02 15:04:21,173 | INFO | 1 change detected
+2025-06-02 15:04:21,525 | INFO | 1 change detected
+2025-06-02 15:04:21,883 | INFO | 1 change detected
+2025-06-02 15:04:22,243 | INFO | 1 change detected
+2025-06-02 15:04:22,600 | INFO | 1 change detected
+2025-06-02 15:04:22,958 | INFO | 1 change detected
+2025-06-02 15:04:23,318 | INFO | 1 change detected
+2025-06-02 15:04:23,728 | INFO | 1 change detected
+2025-06-02 15:04:24,132 | INFO | 1 change detected
+2025-06-02 15:04:24,536 | INFO | 1 change detected
+2025-06-02 15:04:24,943 | INFO | 1 change detected
+2025-06-02 15:04:25,296 | INFO | 1 change detected
+2025-06-02 15:04:25,653 | INFO | 1 change detected
+2025-06-02 15:04:26,014 | INFO | 1 change detected
+2025-06-02 15:04:26,376 | INFO | 1 change detected
+2025-06-02 15:04:26,784 | INFO | 1 change detected
+2025-06-02 15:04:27,188 | INFO | 1 change detected
+2025-06-02 15:04:27,595 | INFO | 1 change detected
+2025-06-02 15:04:27,948 | INFO | 1 change detected
+2025-06-02 15:04:28,307 | INFO | 1 change detected
+2025-06-02 15:04:28,664 | INFO | 1 change detected
+2025-06-02 15:04:29,071 | INFO | 1 change detected
+2025-06-02 15:04:29,473 | INFO | 1 change detected
+2025-06-02 15:04:29,877 | INFO | 1 change detected
+2025-06-02 15:04:30,229 | INFO | 1 change detected
+2025-06-02 15:04:30,587 | INFO | 1 change detected
+2025-06-02 15:04:30,946 | INFO | 1 change detected
+2025-06-02 15:04:31,352 | INFO | 1 change detected
+2025-06-02 15:04:31,755 | INFO | 1 change detected
+2025-06-02 15:04:32,114 | INFO | 1 change detected
+2025-06-02 15:04:32,471 | INFO | 1 change detected
+2025-06-02 15:04:32,829 | INFO | 1 change detected
+2025-06-02 15:04:33,187 | INFO | 1 change detected
+2025-06-02 15:04:33,598 | INFO | 1 change detected
+2025-06-02 15:04:34,003 | INFO | 1 change detected
+2025-06-02 15:04:34,407 | INFO | 1 change detected
+2025-06-02 15:04:34,763 | INFO | 1 change detected
+2025-06-02 15:04:35,122 | INFO | 1 change detected
+2025-06-02 15:04:35,483 | INFO | 1 change detected
+2025-06-02 15:04:35,892 | INFO | 1 change detected
+2025-06-02 15:04:36,250 | INFO | 1 change detected
+2025-06-02 15:04:36,657 | INFO | 1 change detected
+2025-06-02 15:04:37,062 | INFO | 1 change detected
+2025-06-02 15:04:37,418 | INFO | 1 change detected
+2025-06-02 15:04:37,776 | INFO | 1 change detected
+2025-06-02 15:04:38,134 | INFO | 1 change detected
+2025-06-02 15:04:38,544 | INFO | 1 change detected
+2025-06-02 15:04:38,949 | INFO | 1 change detected
+2025-06-02 15:04:39,358 | INFO | 1 change detected
+2025-06-02 15:04:39,762 | INFO | 1 change detected
+2025-06-02 15:04:40,117 | INFO | 1 change detected
+2025-06-02 15:04:40,475 | INFO | 1 change detected
+2025-06-02 15:04:40,833 | INFO | 1 change detected
+2025-06-02 15:04:41,196 | INFO | 1 change detected
+2025-06-02 15:04:41,607 | INFO | 1 change detected
+2025-06-02 15:04:42,013 | INFO | 1 change detected
+2025-06-02 15:04:42,419 | INFO | 1 change detected
+2025-06-02 15:04:42,823 | INFO | 1 change detected
+2025-06-02 15:04:43,232 | INFO | 1 change detected
+2025-06-02 15:04:43,637 | INFO | 1 change detected
+2025-06-02 15:04:44,043 | INFO | 1 change detected
+2025-06-02 15:04:44,399 | INFO | 1 change detected
+2025-06-02 15:04:44,757 | INFO | 1 change detected
+2025-06-02 15:04:45,114 | INFO | 1 change detected
+2025-06-02 15:04:45,474 | INFO | 1 change detected
+2025-06-02 15:04:45,881 | INFO | 1 change detected
+2025-06-02 15:04:46,286 | INFO | 1 change detected
+2025-06-02 15:04:46,694 | INFO | 1 change detected
+2025-06-02 15:04:47,047 | INFO | 1 change detected
+2025-06-02 15:04:47,409 | INFO | 1 change detected
+2025-06-02 15:04:47,765 | INFO | 1 change detected
+2025-06-02 15:04:48,175 | INFO | 1 change detected
+2025-06-02 15:04:48,579 | INFO | 1 change detected
+2025-06-02 15:04:48,985 | INFO | 1 change detected
+2025-06-02 15:04:49,389 | INFO | 1 change detected
+2025-06-02 15:04:49,745 | INFO | 1 change detected
+2025-06-02 15:04:50,104 | INFO | 1 change detected
+2025-06-02 15:04:50,459 | INFO | 1 change detected
+2025-06-02 15:04:50,815 | INFO | 1 change detected
+2025-06-02 15:04:51,223 | INFO | 1 change detected
+2025-06-02 15:04:51,626 | INFO | 1 change detected
+2025-06-02 15:04:52,028 | INFO | 1 change detected
+2025-06-02 15:04:52,382 | INFO | 1 change detected
+2025-06-02 15:04:52,738 | INFO | 1 change detected
+2025-06-02 15:04:53,095 | INFO | 1 change detected
+2025-06-02 15:04:53,455 | INFO | 1 change detected
+2025-06-02 15:04:53,814 | INFO | 1 change detected
+2025-06-02 15:04:54,172 | INFO | 1 change detected
+2025-06-02 15:04:54,529 | INFO | 1 change detected
+2025-06-02 15:04:54,888 | INFO | 1 change detected
+2025-06-02 15:04:55,248 | INFO | 1 change detected
+2025-06-02 15:04:55,603 | INFO | 1 change detected
+2025-06-02 15:04:55,964 | INFO | 1 change detected
+2025-06-02 15:04:56,319 | INFO | 1 change detected
+2025-06-02 15:04:56,679 | INFO | 1 change detected
+2025-06-02 15:04:57,088 | INFO | 1 change detected
+2025-06-02 15:04:57,496 | INFO | 1 change detected
+2025-06-02 15:04:57,848 | INFO | 1 change detected
+2025-06-02 15:04:58,205 | INFO | 1 change detected
+2025-06-02 15:04:58,564 | INFO | 1 change detected
+2025-06-02 15:04:58,974 | INFO | 1 change detected
+2025-06-02 15:04:59,376 | INFO | 1 change detected
+2025-06-02 15:04:59,780 | INFO | 1 change detected
+2025-06-02 15:05:00,184 | INFO | 1 change detected
+2025-06-02 15:05:00,588 | INFO | 1 change detected
+2025-06-02 15:05:00,990 | INFO | 1 change detected
+2025-06-02 15:05:01,393 | INFO | 1 change detected
+2025-06-02 15:05:01,798 | INFO | 1 change detected
+2025-06-02 15:05:02,203 | INFO | 1 change detected
+2025-06-02 15:05:02,555 | INFO | 1 change detected
+2025-06-02 15:05:02,915 | INFO | 1 change detected
+2025-06-02 15:05:03,269 | INFO | 1 change detected
+2025-06-02 15:05:03,624 | INFO | 1 change detected
+2025-06-02 15:05:03,979 | INFO | 1 change detected
+2025-06-02 15:05:04,336 | INFO | 1 change detected
+2025-06-02 15:05:04,696 | INFO | 1 change detected
+2025-06-02 15:05:05,055 | INFO | 1 change detected
+2025-06-02 15:05:05,464 | INFO | 1 change detected
+2025-06-02 15:05:05,870 | INFO | 1 change detected
+2025-06-02 15:05:06,223 | INFO | 1 change detected
+2025-06-02 15:05:06,581 | INFO | 1 change detected
+2025-06-02 15:05:06,940 | INFO | 1 change detected
+2025-06-02 15:05:07,298 | INFO | 1 change detected
+2025-06-02 15:05:07,707 | INFO | 1 change detected
+2025-06-02 15:05:08,111 | INFO | 1 change detected
+2025-06-02 15:05:08,518 | INFO | 1 change detected
+2025-06-02 15:05:08,873 | INFO | 1 change detected
+2025-06-02 15:05:09,232 | INFO | 1 change detected
+2025-06-02 15:05:09,590 | INFO | 1 change detected
+2025-06-02 15:05:09,999 | INFO | 1 change detected
+2025-06-02 15:05:10,405 | INFO | 1 change detected
+2025-06-02 15:05:10,762 | INFO | 1 change detected
+2025-06-02 15:05:11,171 | INFO | 1 change detected
+2025-06-02 15:05:11,528 | INFO | 1 change detected
+2025-06-02 15:05:11,887 | INFO | 1 change detected
+2025-06-02 15:05:12,244 | INFO | 1 change detected
+2025-06-02 15:05:12,601 | INFO | 1 change detected
+2025-06-02 15:05:12,962 | INFO | 1 change detected
+2025-06-02 15:05:13,321 | INFO | 1 change detected
+2025-06-02 15:05:13,679 | INFO | 1 change detected
+2025-06-02 15:05:14,037 | INFO | 1 change detected
+2025-06-02 15:05:14,396 | INFO | 1 change detected
+2025-06-02 15:05:14,755 | INFO | 1 change detected
+2025-06-02 15:05:15,164 | INFO | 1 change detected
+2025-06-02 15:05:15,518 | INFO | 1 change detected
+2025-06-02 15:05:15,873 | INFO | 1 change detected
+2025-06-02 15:05:16,234 | INFO | 1 change detected
+2025-06-02 15:05:16,596 | INFO | 1 change detected
+2025-06-02 15:05:16,953 | INFO | 1 change detected
+2025-06-02 15:05:17,309 | INFO | 1 change detected
+2025-06-02 15:05:17,667 | INFO | 1 change detected
+2025-06-02 15:05:18,025 | INFO | 1 change detected
+2025-06-02 15:05:18,384 | INFO | 1 change detected
+2025-06-02 15:05:18,741 | INFO | 1 change detected
+2025-06-02 15:05:19,100 | INFO | 1 change detected
+2025-06-02 15:05:19,458 | INFO | 1 change detected
+2025-06-02 15:05:19,814 | INFO | 1 change detected
+2025-06-02 15:05:20,221 | INFO | 1 change detected
+2025-06-02 15:05:20,628 | INFO | 1 change detected
+2025-06-02 15:05:21,031 | INFO | 1 change detected
+2025-06-02 15:05:21,384 | INFO | 1 change detected
+2025-06-02 15:05:21,743 | INFO | 1 change detected
+2025-06-02 15:05:22,101 | INFO | 1 change detected
+2025-06-02 15:05:22,458 | INFO | 1 change detected
+2025-06-02 15:05:22,818 | INFO | 1 change detected
+2025-06-02 15:05:23,174 | INFO | 1 change detected
+2025-06-02 15:05:23,530 | INFO | 1 change detected
+2025-06-02 15:05:23,887 | INFO | 1 change detected
+2025-06-02 15:05:24,248 | INFO | 1 change detected
+2025-06-02 15:05:24,605 | INFO | 1 change detected
+2025-06-02 15:05:24,965 | INFO | 1 change detected
+2025-06-02 15:05:25,324 | INFO | 1 change detected
+2025-06-02 15:05:25,680 | INFO | 1 change detected
+2025-06-02 15:05:26,090 | INFO | 1 change detected
+2025-06-02 15:05:26,444 | INFO | 1 change detected
+2025-06-02 15:05:26,802 | INFO | 1 change detected
+2025-06-02 15:05:27,164 | INFO | 1 change detected
+2025-06-02 15:05:27,519 | INFO | 1 change detected
+2025-06-02 15:05:27,875 | INFO | 1 change detected
+2025-06-02 15:05:28,237 | INFO | 1 change detected
+2025-06-02 15:05:28,597 | INFO | 1 change detected
+2025-06-02 15:05:28,958 | INFO | 1 change detected
+2025-06-02 15:05:29,316 | INFO | 1 change detected
+2025-06-02 15:05:29,677 | INFO | 1 change detected
+2025-06-02 15:05:30,036 | INFO | 1 change detected
+2025-06-02 15:05:30,396 | INFO | 1 change detected
+2025-06-02 15:05:30,752 | INFO | 1 change detected
+2025-06-02 15:05:31,113 | INFO | 1 change detected
+2025-06-02 15:05:31,521 | INFO | 1 change detected
+2025-06-02 15:05:31,873 | INFO | 1 change detected
+2025-06-02 15:05:32,232 | INFO | 1 change detected
+2025-06-02 15:05:32,591 | INFO | 1 change detected
+2025-06-02 15:05:33,000 | INFO | 1 change detected
+2025-06-02 15:05:33,407 | INFO | 1 change detected
+2025-06-02 15:05:33,808 | INFO | 1 change detected
+2025-06-02 15:05:34,216 | INFO | 1 change detected
+2025-06-02 15:05:34,620 | INFO | 1 change detected
+2025-06-02 15:05:35,028 | INFO | 1 change detected
+2025-06-02 15:05:35,445 | INFO | 1 change detected
+2025-06-02 15:05:35,852 | INFO | 1 change detected
+2025-06-02 15:05:36,206 | INFO | 1 change detected
+2025-06-02 15:05:36,566 | INFO | 1 change detected
+2025-06-02 15:05:36,924 | INFO | 1 change detected
+2025-06-02 15:05:37,286 | INFO | 1 change detected
+2025-06-02 15:05:37,645 | INFO | Stopping reloader process [484]
+2025-06-02 15:11:48,090 | INFO | Will watch for changes in these directories: ['C:\\Users\\Owner1\\Desktop\\AIObservability-Monitoring_InnerAI']
+2025-06-02 15:11:48,092 | INFO | Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2025-06-02 15:11:48,093 | INFO | Started reloader process [876] using WatchFiles
+2025-06-02 15:11:54,175 | INFO | 1 change detected
+2025-06-02 15:11:54,177 | WARNING | WatchFiles detected changes in 'metrics\metrics.py'. Reloading...
+2025-06-02 15:12:03,437 | INFO | Started server process [38888]
+2025-06-02 15:12:03,438 | INFO | Waiting for application startup.
+2025-06-02 15:12:03,440 | INFO | Application startup complete.
+2025-06-02 15:12:03,457 | ERROR | Traceback (most recent call last):
+  File "C:\Users\Owner1\AppData\Local\Programs\Python\Python313\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\Owner1\AppData\Local\Programs\Python\Python313\Lib\asyncio\base_events.py", line 720, in run_until_complete
+    return future.result()
+           ~~~~~~~~~~~~~^^
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Owner1\AppData\Local\Programs\Python\Python313\Lib\asyncio\runners.py", line 194, in run
+    return runner.run(main)
+           ~~~~~~~~~~^^^^^^
+  File "C:\Users\Owner1\AppData\Local\Programs\Python\Python313\Lib\asyncio\runners.py", line 123, in run
+    raise KeyboardInterrupt()
+KeyboardInterrupt
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Owner1\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\routing.py", line 699, in lifespan
+    await receive()
+  File "C:\Users\Owner1\AppData\Local\Programs\Python\Python313\Lib\site-packages\uvicorn\lifespan\on.py", line 137, in receive
+    return await self.receive_queue.get()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Owner1\AppData\Local\Programs\Python\Python313\Lib\asyncio\queues.py", line 186, in get
+    await getter
+asyncio.exceptions.CancelledError
+
+2025-06-02 15:12:06,347 | INFO | 1 change detected
+2025-06-02 15:12:07,512 | INFO | 5 changes detected
+2025-06-02 15:12:08,556 | INFO | Started server process [11872]
+2025-06-02 15:12:08,557 | INFO | Waiting for application startup.
+2025-06-02 15:12:08,558 | INFO | Application startup complete.
+2025-06-02 15:12:08,561 | ERROR | Traceback (most recent call last):
+  File "C:\Users\Owner1\AppData\Local\Programs\Python\Python313\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\Owner1\AppData\Local\Programs\Python\Python313\Lib\asyncio\base_events.py", line 720, in run_until_complete
+    return future.result()
+           ~~~~~~~~~~~~~^^
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Owner1\AppData\Local\Programs\Python\Python313\Lib\asyncio\runners.py", line 194, in run
+    return runner.run(main)
+           ~~~~~~~~~~^^^^^^
+  File "C:\Users\Owner1\AppData\Local\Programs\Python\Python313\Lib\asyncio\runners.py", line 123, in run
+    raise KeyboardInterrupt()
+KeyboardInterrupt
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Owner1\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\routing.py", line 699, in lifespan
+    await receive()
+  File "C:\Users\Owner1\AppData\Local\Programs\Python\Python313\Lib\site-packages\uvicorn\lifespan\on.py", line 137, in receive
+    return await self.receive_queue.get()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Owner1\AppData\Local\Programs\Python\Python313\Lib\asyncio\queues.py", line 186, in get
+    await getter
+asyncio.exceptions.CancelledError
+
+2025-06-02 15:12:10,989 | INFO | Stopping reloader process [876]
+2025-06-02 15:12:21,417 | INFO | Will watch for changes in these directories: ['C:\\Users\\Owner1\\Desktop\\AIObservability-Monitoring_InnerAI']
+2025-06-02 15:12:21,418 | INFO | Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2025-06-02 15:12:21,419 | INFO | Started reloader process [18812] using WatchFiles
+2025-06-02 15:12:23,768 | INFO | Started server process [1004]
+2025-06-02 15:12:23,769 | INFO | Waiting for application startup.
+2025-06-02 15:12:23,770 | INFO | Application startup complete.
+2025-06-02 15:14:49,363 | INFO | 1 change detected
+2025-06-02 15:14:49,364 | WARNING | WatchFiles detected changes in 'APIWrapper\api_wrapper_impl.py'. Reloading...
+2025-06-02 15:14:49,387 | INFO | Shutting down
+2025-06-02 15:14:49,495 | INFO | Waiting for application shutdown.
+2025-06-02 15:14:49,496 | INFO | Application shutdown complete.
+2025-06-02 15:14:49,497 | INFO | Finished server process [1004]
+2025-06-02 15:14:52,238 | INFO | 1 change detected
+2025-06-02 15:14:52,597 | INFO | 5 changes detected
+2025-06-02 15:14:54,391 | INFO | Started server process [36916]
+2025-06-02 15:14:54,392 | INFO | Waiting for application startup.
+2025-06-02 15:14:54,393 | INFO | Application startup complete.
+2025-06-02 15:15:49,542 | INFO | {'prompt': "this is a testplease include the sentence 'inserted additional string' into your response", 'metadata': {}, 'model': 'models/gemini-2.0-flash', 'response': 'This is a test. inserted additional string washington.', 'latency_sec': 0.534, 'status': 'success'}
+2025-06-02 15:15:49,617 | INFO | 1 change detected
+2025-06-02 15:15:51,184 | INFO | 1 change detected
+2025-06-02 15:15:51,537 | INFO | 1 change detected
+2025-06-02 15:15:51,946 | INFO | 1 change detected
+2025-06-02 15:15:52,305 | INFO | 1 change detected
+2025-06-02 15:15:52,663 | INFO | 1 change detected
+2025-06-02 15:15:53,020 | INFO | 1 change detected
+2025-06-02 15:15:53,430 | INFO | 1 change detected
+2025-06-02 15:15:53,837 | INFO | 1 change detected
+2025-06-02 15:15:54,245 | INFO | 1 change detected
+2025-06-02 15:15:54,650 | INFO | 1 change detected
+2025-06-02 15:15:55,006 | INFO | 1 change detected
+2025-06-02 15:15:55,363 | INFO | 1 change detected
+2025-06-02 15:15:55,722 | INFO | 1 change detected
+2025-06-02 15:15:56,082 | INFO | 1 change detected
+2025-06-02 15:15:56,491 | INFO | 1 change detected
+2025-06-02 15:15:56,897 | INFO | 1 change detected
+2025-06-02 15:15:57,302 | INFO | 1 change detected
+2025-06-02 15:15:57,656 | INFO | 1 change detected
+2025-06-02 15:15:58,014 | INFO | 1 change detected
+2025-06-02 15:15:58,370 | INFO | 1 change detected
+2025-06-02 15:15:58,778 | INFO | 1 change detected
+2025-06-02 15:15:59,183 | INFO | 1 change detected
+2025-06-02 15:15:59,587 | INFO | 1 change detected
+2025-06-02 15:15:59,989 | INFO | 1 change detected
+2025-06-02 15:16:00,346 | INFO | 1 change detected
+2025-06-02 15:16:00,706 | INFO | 1 change detected
+2025-06-02 15:16:01,064 | INFO | 1 change detected
+2025-06-02 15:16:01,421 | INFO | 1 change detected
+2025-06-02 15:16:01,832 | INFO | 1 change detected
+2025-06-02 15:16:02,237 | INFO | 1 change detected
+2025-06-02 15:16:02,644 | INFO | 1 change detected
+2025-06-02 15:16:03,049 | INFO | 1 change detected
+2025-06-02 15:16:03,454 | INFO | 1 change detected
+2025-06-02 15:16:03,810 | INFO | 1 change detected
+2025-06-02 15:16:04,217 | INFO | 1 change detected
+2025-06-02 15:16:04,574 | INFO | 1 change detected
+2025-06-02 15:16:04,934 | INFO | 1 change detected
+2025-06-02 15:16:05,341 | INFO | 1 change detected
+2025-06-02 15:16:05,748 | INFO | 1 change detected
+2025-06-02 15:16:06,153 | INFO | 1 change detected
+2025-06-02 15:16:06,557 | INFO | 1 change detected
+2025-06-02 15:16:06,910 | INFO | 1 change detected
+2025-06-02 15:16:07,273 | INFO | 1 change detected
+2025-06-02 15:16:07,634 | INFO | 1 change detected
+2025-06-02 15:16:07,995 | INFO | 1 change detected
+2025-06-02 15:16:08,405 | INFO | 1 change detected
+2025-06-02 15:16:08,810 | INFO | 1 change detected
+2025-06-02 15:16:09,216 | INFO | 1 change detected
+2025-06-02 15:16:09,619 | INFO | 1 change detected
+2025-06-02 15:16:09,975 | INFO | 1 change detected
+2025-06-02 15:16:10,336 | INFO | 1 change detected
+2025-06-02 15:16:10,694 | INFO | 1 change detected
+2025-06-02 15:16:11,052 | INFO | 1 change detected
+2025-06-02 15:16:11,463 | INFO | 1 change detected
+2025-06-02 15:16:11,869 | INFO | 1 change detected
+2025-06-02 15:16:12,274 | INFO | 1 change detected
+2025-06-02 15:16:12,629 | INFO | 1 change detected
+2025-06-02 15:16:12,986 | INFO | 1 change detected
+2025-06-02 15:16:13,348 | INFO | 1 change detected
+2025-06-02 15:16:13,705 | INFO | 1 change detected
+2025-06-02 15:16:14,113 | INFO | 1 change detected
+2025-06-02 15:16:14,522 | INFO | 1 change detected
+2025-06-02 15:16:14,929 | INFO | 1 change detected
+2025-06-02 15:16:15,283 | INFO | 1 change detected
+2025-06-02 15:16:15,638 | INFO | 1 change detected
+2025-06-02 15:16:15,995 | INFO | 1 change detected
+2025-06-02 15:16:16,404 | INFO | 1 change detected
+2025-06-02 15:16:16,807 | INFO | 1 change detected
+2025-06-02 15:16:17,212 | INFO | 1 change detected
+2025-06-02 15:16:17,616 | INFO | 1 change detected
+2025-06-02 15:16:17,982 | INFO | 1 change detected
+2025-06-02 15:16:18,392 | INFO | 1 change detected
+2025-06-02 15:16:18,798 | INFO | 1 change detected
+2025-06-02 15:16:19,205 | INFO | 1 change detected
+2025-06-02 15:16:19,558 | INFO | 1 change detected
+2025-06-02 15:16:19,916 | INFO | 1 change detected
+2025-06-02 15:16:20,278 | INFO | 1 change detected
+2025-06-02 15:16:20,686 | INFO | 1 change detected
+2025-06-02 15:16:21,095 | INFO | 1 change detected
+2025-06-02 15:16:21,503 | INFO | 1 change detected
+2025-06-02 15:16:21,906 | INFO | 1 change detected
+2025-06-02 15:16:22,261 | INFO | 1 change detected
+2025-06-02 15:16:22,620 | INFO | 1 change detected
+2025-06-02 15:16:22,983 | INFO | 1 change detected
+2025-06-02 15:16:23,341 | INFO | 1 change detected
+2025-06-02 15:16:23,747 | INFO | 1 change detected
+2025-06-02 15:16:24,154 | INFO | 1 change detected
+2025-06-02 15:16:24,556 | INFO | 1 change detected
+2025-06-02 15:16:24,915 | INFO | 1 change detected
+2025-06-02 15:16:25,273 | INFO | 1 change detected
+2025-06-02 15:16:25,680 | INFO | 1 change detected
+2025-06-02 15:16:26,138 | INFO | 1 change detected
+2025-06-02 15:16:26,491 | INFO | 1 change detected
+2025-06-02 15:16:26,851 | INFO | 1 change detected
+2025-06-02 15:16:27,212 | INFO | 1 change detected
+2025-06-02 15:16:27,573 | INFO | 1 change detected
+2025-06-02 15:16:27,931 | INFO | 1 change detected
+2025-06-02 15:16:28,339 | INFO | 1 change detected
+2025-06-02 15:16:28,743 | INFO | 1 change detected
+2025-06-02 15:16:29,100 | INFO | 1 change detected
+2025-06-02 15:16:29,462 | INFO | 1 change detected
+2025-06-02 15:16:29,821 | INFO | 1 change detected
+2025-06-02 15:16:30,178 | INFO | 1 change detected
+2025-06-02 15:16:30,587 | INFO | 1 change detected
+2025-06-02 15:16:30,944 | INFO | 1 change detected
+2025-06-02 15:16:31,351 | INFO | 1 change detected
+2025-06-02 15:16:31,703 | INFO | 1 change detected
+2025-06-02 15:16:32,062 | INFO | 1 change detected
+2025-06-02 15:16:32,421 | INFO | 1 change detected
+2025-06-02 15:16:32,777 | INFO | 1 change detected
+2025-06-02 15:16:33,136 | INFO | 2 changes detected
+2025-06-02 15:16:33,136 | WARNING | WatchFiles detected changes in 'APIWrapper\api_wrapper_impl.py'. Reloading...
+2025-06-02 15:16:33,222 | INFO | Shutting down
+2025-06-02 15:16:33,330 | INFO | Waiting for application shutdown.
+2025-06-02 15:16:33,332 | INFO | Application shutdown complete.
+2025-06-02 15:16:33,333 | INFO | Finished server process [36916]
+2025-06-02 15:16:36,170 | INFO | 1 change detected
+2025-06-02 15:16:36,578 | INFO | 5 changes detected
+2025-06-02 15:16:39,470 | INFO | Started server process [20952]
+2025-06-02 15:16:39,471 | INFO | Waiting for application startup.
+2025-06-02 15:16:39,472 | INFO | Application startup complete.
+2025-06-02 15:16:40,362 | INFO | {'prompt': "this is a testplease include the sentence 'inserted additional string' into your response", 'metadata': {}, 'model': 'models/gemini-2.0-flash', 'response': 'This is a test. inserted additional string washington.', 'latency_sec': 0.581, 'status': 'success'}
+2025-06-02 15:16:40,410 | INFO | 1 change detected
+2025-06-02 15:16:41,672 | INFO | 1 change detected
+2025-06-02 15:16:42,036 | INFO | 1 change detected
+2025-06-02 15:16:42,393 | INFO | 1 change detected
+2025-06-02 15:16:42,803 | INFO | 1 change detected
+2025-06-02 15:16:43,210 | INFO | 1 change detected
+2025-06-02 15:16:43,615 | INFO | 1 change detected
+2025-06-02 15:16:43,966 | INFO | 1 change detected
+2025-06-02 15:16:44,331 | INFO | 1 change detected
+2025-06-02 15:16:44,694 | INFO | 1 change detected
+2025-06-02 15:16:45,054 | INFO | 1 change detected
+2025-06-02 15:16:45,462 | INFO | 1 change detected
+2025-06-02 15:16:45,866 | INFO | 1 change detected
+2025-06-02 15:16:46,275 | INFO | 1 change detected
+2025-06-02 15:16:46,678 | INFO | 1 change detected
+2025-06-02 15:16:47,085 | INFO | 1 change detected
+2025-06-02 15:16:47,490 | INFO | 1 change detected
+2025-06-02 15:16:47,894 | INFO | 1 change detected
+2025-06-02 15:16:48,251 | INFO | 1 change detected
+2025-06-02 15:16:48,609 | INFO | 1 change detected
+2025-06-02 15:16:48,967 | INFO | 1 change detected
+2025-06-02 15:16:49,326 | INFO | 1 change detected
+2025-06-02 15:16:49,736 | INFO | 1 change detected
+2025-06-02 15:16:50,141 | INFO | 1 change detected
+2025-06-02 15:16:50,547 | INFO | 1 change detected
+2025-06-02 15:16:50,902 | INFO | 1 change detected
+2025-06-02 15:16:51,262 | INFO | 1 change detected
+2025-06-02 15:16:51,622 | INFO | 1 change detected
+2025-06-02 15:16:52,033 | INFO | 1 change detected
+2025-06-02 15:16:52,438 | INFO | 1 change detected
+2025-06-02 15:16:52,839 | INFO | 1 change detected
+2025-06-02 15:16:53,197 | INFO | 1 change detected
+2025-06-02 15:16:53,554 | INFO | 1 change detected
+2025-06-02 15:16:53,913 | INFO | 1 change detected
+2025-06-02 15:16:54,271 | INFO | 1 change detected
+2025-06-02 15:17:47,624 | INFO | 1 change detected
+2025-06-02 15:17:47,625 | WARNING | WatchFiles detected changes in 'APIWrapper\api_wrapper_impl.py'. Reloading...
+2025-06-02 15:17:47,679 | INFO | Shutting down
+2025-06-02 15:17:47,786 | INFO | Waiting for application shutdown.
+2025-06-02 15:17:47,789 | INFO | Application shutdown complete.
+2025-06-02 15:17:47,792 | INFO | Finished server process [20952]
+2025-06-02 15:17:50,797 | INFO | 1 change detected
+2025-06-02 15:17:51,509 | INFO | 5 changes detected
+2025-06-02 15:17:55,639 | INFO | Started server process [22908]
+2025-06-02 15:17:55,642 | INFO | Waiting for application startup.
+2025-06-02 15:17:55,645 | INFO | Application startup complete.
+2025-06-02 15:17:56,826 | INFO | {'prompt': "this is a testplease include the sentence 'inserted additional string' into your response", 'metadata': {}, 'model': 'models/gemini-2.0-flash', 'response': 'This is a test inserted additional string washington.', 'latency_sec': 1.171, 'status': 'success'}
+2025-06-02 15:17:57,175 | INFO | 1 change detected
+2025-06-02 15:17:58,337 | INFO | 1 change detected
+2025-06-02 15:17:58,688 | INFO | 1 change detected
+2025-06-02 15:17:59,050 | INFO | 1 change detected
+2025-06-02 15:17:59,413 | INFO | 1 change detected
+2025-06-02 15:17:59,772 | INFO | 1 change detected
+2025-06-02 15:18:00,127 | INFO | 1 change detected
+2025-06-02 15:18:00,535 | INFO | 1 change detected
+2025-06-02 15:18:00,890 | INFO | 1 change detected
+2025-06-02 15:18:01,299 | INFO | 1 change detected
+2025-06-02 15:18:01,652 | INFO | 1 change detected
+2025-06-02 15:18:02,064 | INFO | 1 change detected
+2025-06-02 15:18:02,468 | INFO | 1 change detected
+2025-06-02 15:18:02,873 | INFO | 1 change detected
+2025-06-02 15:18:03,231 | INFO | 1 change detected
+2025-06-02 15:18:03,588 | INFO | 1 change detected
+2025-06-02 15:18:03,995 | INFO | 1 change detected
+2025-06-02 15:18:04,361 | INFO | 1 change detected
+2025-06-02 15:18:04,767 | INFO | 1 change detected
+2025-06-02 15:18:05,172 | INFO | 1 change detected
+2025-06-02 15:18:05,575 | INFO | 1 change detected
+2025-06-02 15:18:05,927 | INFO | 1 change detected
+2025-06-02 15:18:06,284 | INFO | 1 change detected
+2025-06-02 15:18:06,693 | INFO | 1 change detected
+2025-06-02 15:18:07,098 | INFO | 1 change detected
+2025-06-02 15:18:07,502 | INFO | 1 change detected
+2025-06-02 15:18:07,907 | INFO | 1 change detected
+2025-06-02 15:18:08,310 | INFO | 1 change detected
+2025-06-02 15:18:08,664 | INFO | 1 change detected
+2025-06-02 15:18:09,022 | INFO | 1 change detected
+2025-06-02 15:18:09,378 | INFO | 1 change detected
+2025-06-02 15:18:09,786 | INFO | 1 change detected
+2025-06-02 15:18:10,148 | INFO | 1 change detected
+2025-06-02 15:18:10,556 | INFO | 1 change detected
+2025-06-02 15:18:10,959 | INFO | 1 change detected
+2025-06-02 15:18:11,325 | INFO | 1 change detected
+2025-06-02 15:18:11,679 | INFO | 1 change detected
+2025-06-02 15:18:12,086 | INFO | 1 change detected
+2025-06-02 15:18:12,489 | INFO | 1 change detected
+2025-06-02 15:18:12,891 | INFO | 1 change detected
+2025-06-02 15:18:13,293 | INFO | 1 change detected
+2025-06-02 15:18:13,697 | INFO | 1 change detected
+2025-06-02 15:18:14,049 | INFO | 1 change detected
+2025-06-02 15:18:14,407 | INFO | 1 change detected
+2025-06-02 15:18:14,818 | INFO | 1 change detected
+2025-06-02 15:18:15,223 | INFO | 1 change detected
+2025-06-02 15:18:15,628 | INFO | 1 change detected
+2025-06-02 15:18:16,031 | INFO | 1 change detected
+2025-06-02 15:18:16,438 | INFO | 1 change detected
+2025-06-02 15:18:16,789 | INFO | 1 change detected
+2025-06-02 15:18:17,152 | INFO | 1 change detected
+2025-06-02 15:18:17,559 | INFO | 1 change detected
+2025-06-02 15:18:17,968 | INFO | 1 change detected
+2025-06-02 15:18:18,373 | INFO | 1 change detected
+2025-06-02 15:18:18,775 | INFO | 1 change detected
+2025-06-02 15:18:19,182 | INFO | 1 change detected
+2025-06-02 15:18:19,535 | INFO | 1 change detected
+2025-06-02 15:18:19,889 | INFO | 1 change detected
+2025-06-02 15:18:20,297 | INFO | 1 change detected
+2025-06-02 15:18:20,699 | INFO | 1 change detected
+2025-06-02 15:18:21,108 | INFO | 1 change detected
+2025-06-02 15:18:21,525 | INFO | 1 change detected
+2025-06-02 15:18:21,927 | INFO | 1 change detected
+2025-06-02 15:18:22,281 | INFO | 1 change detected
+2025-06-02 15:18:22,636 | INFO | 1 change detected
+2025-06-02 15:18:23,044 | INFO | 1 change detected
+2025-06-02 15:18:23,452 | INFO | 1 change detected
+2025-06-02 15:18:23,855 | INFO | 1 change detected
+2025-06-02 15:18:24,262 | INFO | 1 change detected
+2025-06-02 15:18:24,668 | INFO | 1 change detected
+2025-06-02 15:18:25,023 | INFO | 1 change detected
+2025-06-02 15:18:25,380 | INFO | 1 change detected
+2025-06-02 15:18:25,788 | INFO | 1 change detected
+2025-06-02 15:18:26,190 | INFO | 1 change detected
+2025-06-02 15:18:26,595 | INFO | 1 change detected
+2025-06-02 15:18:27,000 | INFO | 1 change detected
+2025-06-02 15:18:27,405 | INFO | 1 change detected
+2025-06-02 15:18:27,756 | INFO | 1 change detected
+2025-06-02 15:18:28,164 | INFO | 1 change detected
+2025-06-02 15:18:28,519 | INFO | 1 change detected
+2025-06-02 15:18:28,877 | INFO | 1 change detected
+2025-06-02 15:18:29,230 | INFO | 1 change detected
+2025-06-02 15:18:29,590 | INFO | 1 change detected
+2025-06-02 15:18:29,949 | INFO | 1 change detected
+2025-06-02 15:18:30,305 | INFO | 1 change detected
+2025-06-02 15:18:30,663 | INFO | 1 change detected
+2025-06-02 15:18:31,076 | INFO | 1 change detected
+2025-06-02 15:18:31,481 | INFO | 1 change detected
+2025-06-02 15:18:31,833 | INFO | 1 change detected
+2025-06-02 15:18:32,192 | INFO | 1 change detected
+2025-06-02 15:18:32,601 | INFO | 1 change detected
+2025-06-02 15:18:33,004 | INFO | 1 change detected
+2025-06-02 15:18:33,412 | INFO | 1 change detected
+2025-06-02 15:18:33,816 | INFO | 1 change detected
+2025-06-02 15:18:34,219 | INFO | 1 change detected
+2025-06-02 15:18:34,573 | INFO | 1 change detected
+2025-06-02 15:18:34,931 | INFO | 1 change detected
+2025-06-02 15:18:35,287 | INFO | 1 change detected
+2025-06-02 15:18:35,695 | INFO | 1 change detected
+2025-06-02 15:18:36,100 | INFO | 1 change detected
+2025-06-02 15:18:36,506 | INFO | 1 change detected
+2025-06-02 15:18:36,908 | INFO | 1 change detected
+2025-06-02 15:18:37,265 | INFO | 1 change detected
+2025-06-02 15:18:37,621 | INFO | 1 change detected
+2025-06-02 15:18:38,032 | INFO | 1 change detected
+2025-06-02 15:18:38,438 | INFO | 1 change detected
+2025-06-02 15:18:38,845 | INFO | 1 change detected
+2025-06-02 15:18:39,248 | INFO | 1 change detected
+2025-06-02 15:18:39,664 | INFO | 1 change detected
+2025-06-02 15:18:40,017 | INFO | 1 change detected
+2025-06-02 15:18:40,373 | INFO | 1 change detected
+2025-06-02 15:18:40,782 | INFO | 1 change detected
+2025-06-02 15:18:41,186 | INFO | 1 change detected
+2025-06-02 15:18:41,593 | INFO | 1 change detected
+2025-06-02 15:18:41,999 | INFO | 1 change detected
+2025-06-02 15:18:42,404 | INFO | 1 change detected
+2025-06-02 15:18:42,755 | INFO | 1 change detected
+2025-06-02 15:18:43,112 | INFO | 1 change detected
+2025-06-02 15:18:43,470 | INFO | 1 change detected
+2025-06-02 15:18:43,878 | INFO | 1 change detected
+2025-06-02 15:18:44,282 | INFO | 1 change detected
+2025-06-02 15:18:44,685 | INFO | 1 change detected
+2025-06-02 15:18:45,090 | INFO | 1 change detected
+2025-06-02 15:18:45,444 | INFO | 1 change detected
+2025-06-02 15:18:45,801 | INFO | 1 change detected
+2025-06-02 15:18:46,164 | INFO | 1 change detected
+2025-06-02 15:18:46,574 | INFO | 1 change detected
+2025-06-02 15:18:46,989 | INFO | 1 change detected
+2025-06-02 15:18:47,394 | INFO | 1 change detected
+2025-06-02 15:18:47,798 | INFO | 1 change detected
+2025-06-02 15:18:48,154 | INFO | 1 change detected
+2025-06-02 15:18:48,510 | INFO | 1 change detected
+2025-06-02 15:18:48,868 | INFO | 1 change detected
+2025-06-02 15:18:49,276 | INFO | 1 change detected
+2025-06-02 15:18:49,681 | INFO | 1 change detected
+2025-06-02 15:18:50,085 | INFO | 1 change detected
+2025-06-02 15:18:50,488 | INFO | 1 change detected
+2025-06-02 15:18:50,854 | INFO | 1 change detected
+2025-06-02 15:18:51,215 | INFO | 1 change detected
+2025-06-02 15:18:51,573 | INFO | 1 change detected
+2025-06-02 15:18:51,982 | INFO | 1 change detected
+2025-06-02 15:18:52,337 | INFO | 1 change detected
+2025-06-02 15:18:52,693 | INFO | 1 change detected
+2025-06-02 15:18:53,050 | INFO | 1 change detected
+2025-06-02 15:18:53,511 | INFO | 1 change detected
+2025-06-02 15:18:53,925 | INFO | 1 change detected
+2025-06-02 15:18:54,330 | INFO | 1 change detected
+2025-06-02 15:18:54,733 | INFO | 1 change detected
+2025-06-02 15:18:55,086 | INFO | 1 change detected
+2025-06-02 15:18:55,445 | INFO | 1 change detected
+2025-06-02 15:18:55,804 | INFO | 1 change detected
+2025-06-02 15:18:56,210 | INFO | 1 change detected
+2025-06-02 15:18:56,615 | INFO | 1 change detected
+2025-06-02 15:18:57,034 | INFO | 1 change detected
+2025-06-02 15:18:57,437 | INFO | 1 change detected
+2025-06-02 15:18:57,791 | INFO | 1 change detected
+2025-06-02 15:18:58,151 | INFO | 1 change detected
+2025-06-02 15:18:58,508 | INFO | 1 change detected
+2025-06-02 15:18:58,917 | INFO | 1 change detected
+2025-06-02 15:18:59,319 | INFO | 1 change detected
+2025-06-02 15:18:59,725 | INFO | 1 change detected
+2025-06-02 15:19:00,131 | INFO | 1 change detected
+2025-06-02 15:19:00,484 | INFO | 1 change detected
+2025-06-02 15:19:00,892 | INFO | 1 change detected
+2025-06-02 15:19:01,249 | INFO | 1 change detected
+2025-06-02 15:19:01,708 | INFO | 1 change detected
+2025-06-02 15:19:02,112 | INFO | 1 change detected
+2025-06-02 15:19:02,566 | INFO | 1 change detected
+2025-06-02 15:19:02,983 | INFO | 1 change detected
+2025-06-02 15:19:03,348 | INFO | 1 change detected
+2025-06-02 15:19:03,708 | INFO | 2 changes detected
+2025-06-02 15:19:03,708 | WARNING | WatchFiles detected changes in 'APIWrapper\api_wrapper_impl.py'. Reloading...
+2025-06-02 15:19:03,777 | INFO | Shutting down
+2025-06-02 15:19:03,886 | INFO | Waiting for application shutdown.
+2025-06-02 15:19:03,889 | INFO | Application shutdown complete.
+2025-06-02 15:19:03,891 | INFO | Finished server process [22908]
+2025-06-02 15:19:06,953 | INFO | 1 change detected
+2025-06-02 15:19:07,814 | INFO | 5 changes detected
+2025-06-02 15:19:11,439 | INFO | Started server process [18548]
+2025-06-02 15:19:11,442 | INFO | Waiting for application startup.
+2025-06-02 15:19:11,445 | INFO | Application startup complete.
+2025-06-02 15:19:11,991 | INFO | {'prompt': "this is a testplease include the sentence 'inserted additional string' into your response", 'metadata': {}, 'model': 'models/gemini-2.0-flash', 'response': 'This is a test. inserted additional string washington.', 'latency_sec': 0.534, 'status': 'success'}
+2025-06-02 15:19:12,055 | INFO | 1 change detected
+2025-06-02 15:19:13,469 | INFO | 1 change detected
+2025-06-02 15:19:13,828 | INFO | 1 change detected
+2025-06-02 15:19:14,188 | INFO | 1 change detected
+2025-06-02 15:19:14,544 | INFO | 1 change detected
+2025-06-02 15:19:14,902 | INFO | 1 change detected
+2025-06-02 15:19:15,263 | INFO | 1 change detected
+2025-06-02 15:19:15,671 | INFO | 1 change detected
+2025-06-02 15:19:16,076 | INFO | 1 change detected
+2025-06-02 15:19:16,480 | INFO | 1 change detected
+2025-06-02 15:19:16,836 | INFO | 1 change detected
+2025-06-02 15:19:17,193 | INFO | 1 change detected
+2025-06-02 15:19:17,603 | INFO | 1 change detected
+2025-06-02 15:19:18,008 | INFO | 1 change detected
+2025-06-02 15:19:18,413 | INFO | 1 change detected
+2025-06-02 15:19:18,818 | INFO | 1 change detected
+2025-06-02 15:19:19,220 | INFO | 1 change detected
+2025-06-02 15:19:19,585 | INFO | 1 change detected
+2025-06-02 15:19:19,940 | INFO | 1 change detected
+2025-06-02 15:19:20,299 | INFO | 1 change detected
+2025-06-02 15:19:20,707 | INFO | 1 change detected
+2025-06-02 15:19:21,110 | INFO | 1 change detected
+2025-06-02 15:19:21,513 | INFO | 1 change detected
+2025-06-02 15:19:21,921 | INFO | 1 change detected
+2025-06-02 15:19:22,273 | INFO | 1 change detected
+2025-06-02 15:19:22,630 | INFO | 1 change detected
+2025-06-02 15:19:22,989 | INFO | 1 change detected
+2025-06-02 15:19:23,396 | INFO | 1 change detected
+2025-06-02 15:19:23,800 | INFO | 1 change detected
+2025-06-02 15:19:24,204 | INFO | 1 change detected
+2025-06-02 15:19:24,606 | INFO | 1 change detected
+2025-06-02 15:19:24,960 | INFO | 1 change detected
+2025-06-02 15:19:25,316 | INFO | 1 change detected
+2025-06-02 15:19:25,672 | INFO | 1 change detected
+2025-06-02 15:19:26,078 | INFO | 1 change detected
+2025-06-02 15:19:26,482 | INFO | 1 change detected
+2025-06-02 15:19:26,887 | INFO | 1 change detected
+2025-06-02 15:19:27,291 | INFO | 1 change detected
+2025-06-02 15:19:27,656 | INFO | 1 change detected
+2025-06-02 15:19:28,014 | INFO | 1 change detected
+2025-06-02 15:19:28,372 | INFO | 1 change detected
+2025-06-02 15:19:28,728 | INFO | 1 change detected
+2025-06-02 15:19:29,087 | INFO | 1 change detected
+2025-06-02 15:19:29,442 | INFO | 1 change detected
+2025-06-02 15:19:29,801 | INFO | 1 change detected
+2025-06-02 15:19:30,159 | INFO | 1 change detected
+2025-06-02 15:19:30,519 | INFO | 1 change detected
+2025-06-02 15:19:30,923 | INFO | 1 change detected
+2025-06-02 15:19:31,328 | INFO | 1 change detected
+2025-06-02 15:19:31,681 | INFO | 1 change detected
+2025-06-02 15:19:32,089 | INFO | 1 change detected
+2025-06-02 15:19:32,497 | INFO | 1 change detected
+2025-06-02 15:19:32,854 | INFO | 1 change detected
+2025-06-02 15:19:33,214 | INFO | 1 change detected
+2025-06-02 15:19:33,624 | INFO | 1 change detected
+2025-06-02 15:19:33,978 | INFO | 1 change detected
+2025-06-02 15:19:34,339 | INFO | 1 change detected
+2025-06-02 15:19:34,698 | INFO | 1 change detected
+2025-06-02 15:19:35,055 | INFO | 1 change detected
+2025-06-02 15:19:35,416 | INFO | 1 change detected
+2025-06-02 15:19:35,772 | INFO | 1 change detected
+2025-06-02 15:19:36,127 | INFO | 1 change detected
+2025-06-02 15:19:36,485 | INFO | 1 change detected
+2025-06-02 15:19:36,894 | INFO | 1 change detected
+2025-06-02 15:19:37,250 | INFO | 1 change detected
+2025-06-02 15:19:37,608 | INFO | 1 change detected
+2025-06-02 15:19:38,016 | INFO | 1 change detected
+2025-06-02 15:19:38,421 | INFO | 1 change detected
+2025-06-02 15:19:38,829 | INFO | 1 change detected
+2025-06-02 15:19:39,233 | INFO | 1 change detected
+2025-06-02 15:19:39,635 | INFO | 1 change detected
+2025-06-02 15:19:39,990 | INFO | 1 change detected
+2025-06-02 15:19:40,349 | INFO | 1 change detected
+2025-06-02 15:19:40,755 | INFO | 1 change detected
+2025-06-02 15:19:41,162 | INFO | 1 change detected
+2025-06-02 15:19:41,565 | INFO | 1 change detected
+2025-06-02 15:19:41,967 | INFO | 1 change detected
+2025-06-02 15:19:42,374 | INFO | 1 change detected
+2025-06-02 15:19:42,728 | INFO | 1 change detected
+2025-06-02 15:19:43,085 | INFO | 1 change detected
+2025-06-02 15:19:43,495 | INFO | 1 change detected
+2025-06-02 15:19:43,897 | INFO | 1 change detected
+2025-06-02 15:19:44,303 | INFO | 1 change detected
+2025-06-02 15:19:44,706 | INFO | 1 change detected
+2025-06-02 15:19:45,111 | INFO | 1 change detected
+2025-06-02 15:19:45,463 | INFO | 1 change detected
+2025-06-02 15:19:45,818 | INFO | 1 change detected
+2025-06-02 15:19:46,174 | INFO | 1 change detected
+2025-06-02 15:19:46,581 | INFO | 1 change detected
+2025-06-02 15:19:46,984 | INFO | 1 change detected
+2025-06-02 15:19:47,388 | INFO | 1 change detected
+2025-06-02 15:19:47,792 | INFO | 1 change detected
+2025-06-02 15:19:48,143 | INFO | 1 change detected
+2025-06-02 15:19:48,503 | INFO | 1 change detected
+2025-06-02 15:19:48,907 | INFO | 1 change detected
+2025-06-02 15:19:49,314 | INFO | 1 change detected
+2025-06-02 15:19:49,719 | INFO | 1 change detected
+2025-06-02 15:19:50,123 | INFO | 1 change detected
+2025-06-02 15:19:50,528 | INFO | 1 change detected
+2025-06-02 15:19:50,879 | INFO | 1 change detected
+2025-06-02 15:19:51,237 | INFO | 1 change detected
+2025-06-02 15:19:51,641 | INFO | 1 change detected
+2025-06-02 15:19:52,045 | INFO | 1 change detected
+2025-06-02 15:19:52,411 | INFO | 1 change detected
+2025-06-02 15:19:52,819 | INFO | 1 change detected
+2025-06-02 15:19:53,224 | INFO | 1 change detected
+2025-06-02 15:19:53,578 | INFO | 1 change detected
+2025-06-02 15:19:53,936 | INFO | 1 change detected
+2025-06-02 15:19:54,292 | INFO | 1 change detected
+2025-06-02 15:19:54,702 | INFO | 1 change detected
+2025-06-02 15:19:55,106 | INFO | 1 change detected
+2025-06-02 15:19:55,511 | INFO | 1 change detected
+2025-06-02 15:19:55,914 | INFO | 1 change detected
+2025-06-02 15:19:56,269 | INFO | 1 change detected
+2025-06-02 15:19:56,628 | INFO | 1 change detected
+2025-06-02 15:19:57,036 | INFO | 1 change detected
+2025-06-02 15:19:57,442 | INFO | 1 change detected
+2025-06-02 15:19:57,844 | INFO | 1 change detected
+2025-06-02 15:19:58,200 | INFO | 1 change detected
+2025-06-02 15:19:58,558 | INFO | 1 change detected
+2025-06-02 15:19:58,917 | INFO | 1 change detected
+2025-06-02 15:19:59,272 | INFO | 1 change detected
+2025-06-02 15:19:59,633 | INFO | 1 change detected
+2025-06-02 15:19:59,992 | INFO | 1 change detected
+2025-06-02 15:20:00,351 | INFO | 1 change detected
+2025-06-02 15:20:00,709 | INFO | 1 change detected
+2025-06-02 15:20:01,067 | INFO | 1 change detected
+2025-06-02 15:20:01,476 | INFO | 1 change detected
+2025-06-02 15:20:01,879 | INFO | 1 change detected
+2025-06-02 15:20:02,281 | INFO | 1 change detected
+2025-06-02 15:20:02,685 | INFO | 1 change detected
+2025-06-02 15:20:03,040 | INFO | 1 change detected
+2025-06-02 15:20:03,397 | INFO | 1 change detected
+2025-06-02 15:20:03,808 | INFO | 1 change detected
+2025-06-02 15:20:04,211 | INFO | 1 change detected
+2025-06-02 15:20:04,565 | INFO | 1 change detected
+2025-06-02 15:20:04,922 | INFO | 1 change detected
+2025-06-02 15:20:05,279 | INFO | 1 change detected
+2025-06-02 15:20:05,687 | INFO | 1 change detected
+2025-06-02 15:20:06,088 | INFO | 1 change detected
+2025-06-02 15:20:06,492 | INFO | 1 change detected
+2025-06-02 15:20:06,900 | INFO | 1 change detected
+2025-06-02 15:20:07,267 | INFO | 1 change detected
+2025-06-02 15:20:07,624 | INFO | 1 change detected
+2025-06-02 15:20:07,985 | INFO | 1 change detected
+2025-06-02 15:20:08,394 | INFO | 1 change detected
+2025-06-02 15:20:08,810 | INFO | 1 change detected
+2025-06-02 15:20:09,215 | INFO | 1 change detected
+2025-06-02 15:20:09,619 | INFO | 1 change detected
+2025-06-02 15:20:09,973 | INFO | 1 change detected
+2025-06-02 15:20:10,332 | INFO | 1 change detected
+2025-06-02 15:20:10,743 | INFO | 1 change detected
+2025-06-02 15:20:11,109 | INFO | 1 change detected
+2025-06-02 15:20:11,514 | INFO | 1 change detected
+2025-06-02 15:20:11,921 | INFO | 1 change detected
+2025-06-02 15:20:12,323 | INFO | 1 change detected
+2025-06-02 15:20:12,675 | INFO | 1 change detected
+2025-06-02 15:20:13,032 | INFO | 1 change detected
+2025-06-02 15:20:13,442 | INFO | 1 change detected
+2025-06-02 15:20:13,846 | INFO | 1 change detected
+2025-06-02 15:20:14,251 | INFO | 1 change detected
+2025-06-02 15:20:14,656 | INFO | 1 change detected
+2025-06-02 15:20:15,061 | INFO | 1 change detected
+2025-06-02 15:20:15,414 | INFO | 1 change detected
+2025-06-02 15:20:15,773 | INFO | 1 change detected
+2025-06-02 15:20:16,131 | INFO | 1 change detected
+2025-06-02 15:20:16,539 | INFO | 1 change detected
+2025-06-02 15:20:16,943 | INFO | 1 change detected
+2025-06-02 15:20:17,347 | INFO | 1 change detected
+2025-06-02 15:20:17,750 | INFO | 1 change detected
+2025-06-02 15:20:18,103 | INFO | 1 change detected
+2025-06-02 15:20:18,461 | INFO | 1 change detected
+2025-06-02 15:20:18,867 | INFO | 1 change detected
+2025-06-02 15:20:19,270 | INFO | 1 change detected
+2025-06-02 15:20:19,675 | INFO | 1 change detected
+2025-06-02 15:20:20,081 | INFO | 1 change detected
+2025-06-02 15:20:20,484 | INFO | 1 change detected
+2025-06-02 15:20:20,888 | INFO | 1 change detected
+2025-06-02 15:20:21,291 | INFO | 1 change detected
+2025-06-02 15:20:21,646 | INFO | 1 change detected
+2025-06-02 15:20:22,059 | INFO | 1 change detected
+2025-06-02 15:20:22,463 | INFO | 1 change detected
+2025-06-02 15:20:22,867 | INFO | 1 change detected
+2025-06-02 15:20:23,273 | INFO | 1 change detected
+2025-06-02 15:20:23,627 | INFO | 1 change detected
+2025-06-02 15:20:23,984 | INFO | 1 change detected
+2025-06-02 15:20:24,393 | INFO | 1 change detected
+2025-06-02 15:20:24,797 | INFO | 1 change detected
+2025-06-02 15:20:25,204 | INFO | 1 change detected
+2025-06-02 15:20:25,607 | INFO | 1 change detected
+2025-06-02 15:20:26,014 | INFO | 1 change detected
+2025-06-02 15:20:26,366 | INFO | 1 change detected
+2025-06-02 15:20:26,727 | INFO | 1 change detected
+2025-06-02 15:20:27,081 | INFO | 1 change detected
+2025-06-02 15:20:27,488 | INFO | 1 change detected
+2025-06-02 15:20:27,893 | INFO | 1 change detected
+2025-06-02 15:20:28,297 | INFO | 1 change detected
+2025-06-02 15:20:28,701 | INFO | 1 change detected
+2025-06-02 15:20:29,056 | INFO | 1 change detected
+2025-06-02 15:20:29,411 | INFO | 1 change detected
+2025-06-02 15:20:29,820 | INFO | 1 change detected
+2025-06-02 15:20:30,225 | INFO | 1 change detected
+2025-06-02 15:20:30,630 | INFO | 1 change detected
+2025-06-02 15:20:30,997 | INFO | 1 change detected
+2025-06-02 15:20:31,454 | INFO | 1 change detected
+2025-06-02 15:20:31,821 | INFO | 1 change detected
+2025-06-02 15:20:32,177 | INFO | 1 change detected
+2025-06-02 15:20:32,535 | INFO | 1 change detected
+2025-06-02 15:20:32,944 | INFO | 1 change detected
+2025-06-02 15:20:33,360 | INFO | 1 change detected
+2025-06-02 15:20:33,778 | INFO | 1 change detected
+2025-06-02 15:20:34,179 | INFO | 1 change detected
+2025-06-02 15:20:34,534 | INFO | 1 change detected
+2025-06-02 15:20:34,894 | INFO | 1 change detected
+2025-06-02 15:20:35,299 | INFO | 1 change detected
+2025-06-02 15:20:35,703 | INFO | 1 change detected
+2025-06-02 15:20:36,108 | INFO | 1 change detected
+2025-06-02 15:20:36,511 | INFO | 1 change detected
+2025-06-02 15:20:36,914 | INFO | 1 change detected
+2025-06-02 15:20:37,266 | INFO | 1 change detected
+2025-06-02 15:20:37,626 | INFO | 1 change detected
+2025-06-02 15:20:38,033 | INFO | 1 change detected
+2025-06-02 15:20:38,435 | INFO | 1 change detected
+2025-06-02 15:20:38,842 | INFO | 1 change detected
+2025-06-02 15:20:39,244 | INFO | 1 change detected
+2025-06-02 15:20:39,649 | INFO | 1 change detected
+2025-06-02 15:20:40,004 | INFO | 1 change detected
+2025-06-02 15:20:40,410 | INFO | 1 change detected
+2025-06-02 15:20:40,776 | INFO | 1 change detected
+2025-06-02 15:20:41,130 | INFO | 1 change detected
+2025-06-02 15:20:41,487 | INFO | 1 change detected
+2025-06-02 15:20:41,845 | INFO | 1 change detected
+2025-06-02 15:20:42,205 | INFO | 1 change detected
+2025-06-02 15:20:42,564 | INFO | 1 change detected
+2025-06-02 15:20:42,922 | INFO | 1 change detected
+2025-06-02 15:20:43,333 | INFO | 1 change detected
+2025-06-02 15:20:43,750 | INFO | 1 change detected
+2025-06-02 15:20:44,104 | INFO | 1 change detected
+2025-06-02 15:20:44,463 | INFO | 1 change detected
+2025-06-02 15:20:44,873 | INFO | 1 change detected
+2025-06-02 15:20:45,276 | INFO | 1 change detected
+2025-06-02 15:20:45,680 | INFO | 1 change detected
+2025-06-02 15:20:46,035 | INFO | 1 change detected
+2025-06-02 15:20:46,444 | INFO | 1 change detected
+2025-06-02 15:20:46,798 | INFO | 1 change detected
+2025-06-02 15:20:47,206 | INFO | 1 change detected
+2025-06-02 15:20:47,560 | INFO | 1 change detected
+2025-06-02 15:20:47,918 | INFO | 1 change detected
+2025-06-02 15:20:48,276 | INFO | 1 change detected
+2025-06-02 15:20:48,635 | INFO | 1 change detected
+2025-06-02 15:20:48,994 | INFO | 1 change detected
+2025-06-02 15:20:49,352 | INFO | 1 change detected
+2025-06-02 15:20:49,711 | INFO | 1 change detected
+2025-06-02 15:20:50,117 | INFO | 1 change detected
+2025-06-02 15:20:50,523 | INFO | 1 change detected
+2025-06-02 15:20:50,890 | INFO | 1 change detected
+2025-06-02 15:20:51,247 | INFO | 1 change detected
+2025-06-02 15:20:51,651 | INFO | 1 change detected
+2025-06-02 15:20:52,054 | INFO | 1 change detected
+2025-06-02 15:20:52,458 | INFO | 1 change detected
+2025-06-02 15:20:52,875 | INFO | 1 change detected
+2025-06-02 15:20:53,230 | INFO | 1 change detected
+2025-06-02 15:20:53,587 | INFO | 1 change detected
+2025-06-02 15:20:53,993 | INFO | 1 change detected
+2025-06-02 15:20:54,398 | INFO | 1 change detected
+2025-06-02 15:20:54,804 | INFO | 1 change detected
+2025-06-02 15:20:55,207 | INFO | 2 changes detected
+2025-06-02 15:20:55,208 | WARNING | WatchFiles detected changes in 'testing\testing.py'. Reloading...
+2025-06-02 15:20:55,273 | INFO | Shutting down
+2025-06-02 15:20:55,382 | INFO | Waiting for application shutdown.
+2025-06-02 15:20:55,385 | INFO | Application shutdown complete.
+2025-06-02 15:20:55,387 | INFO | Finished server process [18548]
+2025-06-02 15:20:58,413 | INFO | 1 change detected
+2025-06-02 15:20:59,076 | INFO | 5 changes detected
+2025-06-02 15:21:02,325 | INFO | Started server process [33640]
+2025-06-02 15:21:02,327 | INFO | Waiting for application startup.
+2025-06-02 15:21:02,330 | INFO | Application startup complete.
+2025-06-02 15:27:42,390 | INFO | 1 change detected
+2025-06-02 15:27:42,393 | WARNING | WatchFiles detected changes in 'metrics\metrics.py'. Reloading...
+2025-06-02 15:27:42,434 | INFO | Shutting down
+2025-06-02 15:27:42,542 | INFO | Waiting for application shutdown.
+2025-06-02 15:27:42,546 | INFO | Application shutdown complete.
+2025-06-02 15:27:42,549 | INFO | Finished server process [33640]
+2025-06-02 15:27:45,556 | INFO | 1 change detected
+2025-06-02 15:27:47,376 | INFO | 1 change detected
+2025-06-02 15:27:47,377 | WARNING | WatchFiles detected changes in 'APIWrapper\api_wrapper_impl.py'. Reloading...
+2025-06-02 15:27:49,382 | INFO | 5 changes detected
+2025-06-02 15:28:00,452 | INFO | 1 change detected
+2025-06-02 15:28:00,452 | WARNING | WatchFiles detected changes in 'metrics\metrics.py'. Reloading...
+2025-06-02 15:28:03,253 | INFO | 5 changes detected
+2025-06-02 15:28:05,109 | INFO | Started server process [39220]
+2025-06-02 15:28:05,112 | INFO | Waiting for application startup.
+2025-06-02 15:28:05,113 | INFO | Application startup complete.
+2025-06-02 15:28:36,471 | INFO | 1 change detected
+2025-06-02 15:28:36,472 | WARNING | WatchFiles detected changes in 'metrics\metrics.py'. Reloading...
+2025-06-02 15:28:36,480 | INFO | Shutting down
+2025-06-02 15:28:36,591 | INFO | Waiting for application shutdown.
+2025-06-02 15:28:36,594 | INFO | Application shutdown complete.
+2025-06-02 15:28:36,596 | INFO | Finished server process [39220]
+2025-06-02 15:28:39,599 | INFO | 1 change detected
+2025-06-02 15:28:41,821 | INFO | 5 changes detected
+2025-06-02 15:28:43,776 | INFO | Started server process [20512]
+2025-06-02 15:28:43,778 | INFO | Waiting for application startup.
+2025-06-02 15:28:43,780 | INFO | Application startup complete.
+2025-06-02 15:29:18,932 | INFO | 1 change detected
+2025-06-02 15:29:18,933 | WARNING | WatchFiles detected changes in 'metrics\metrics.py'. Reloading...
+2025-06-02 15:29:18,969 | INFO | Shutting down
+2025-06-02 15:29:19,078 | INFO | Waiting for application shutdown.
+2025-06-02 15:29:19,081 | INFO | Application shutdown complete.
+2025-06-02 15:29:19,083 | INFO | Finished server process [20512]
+2025-06-02 15:29:22,080 | INFO | 1 change detected
+2025-06-02 15:29:24,405 | INFO | 5 changes detected
+2025-06-02 15:29:26,333 | INFO | Started server process [20812]
+2025-06-02 15:29:26,335 | INFO | Waiting for application startup.
+2025-06-02 15:29:26,337 | INFO | Application startup complete.
+2025-06-02 15:29:29,060 | INFO | 1 change detected
+2025-06-02 15:29:29,060 | WARNING | WatchFiles detected changes in 'metrics\metrics.py'. Reloading...
+2025-06-02 15:29:29,170 | INFO | Shutting down
+2025-06-02 15:29:29,279 | INFO | Waiting for application shutdown.
+2025-06-02 15:29:29,282 | INFO | Application shutdown complete.
+2025-06-02 15:29:29,285 | INFO | Finished server process [20812]
+2025-06-02 15:29:32,326 | INFO | 1 change detected
+2025-06-02 15:29:33,339 | INFO | 1 change detected
+2025-06-02 15:29:33,339 | WARNING | WatchFiles detected changes in 'metrics\metrics.py'. Reloading...
+2025-06-02 15:29:36,704 | INFO | Started server process [39232]
+2025-06-02 15:29:36,706 | INFO | Waiting for application startup.
+2025-06-02 15:29:36,708 | INFO | Application startup complete.
+2025-06-02 15:29:36,725 | ERROR | Traceback (most recent call last):
+  File "C:\Users\Owner1\AppData\Local\Programs\Python\Python313\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\Owner1\AppData\Local\Programs\Python\Python313\Lib\asyncio\base_events.py", line 720, in run_until_complete
+    return future.result()
+           ~~~~~~~~~~~~~^^
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Owner1\AppData\Local\Programs\Python\Python313\Lib\asyncio\runners.py", line 194, in run
+    return runner.run(main)
+           ~~~~~~~~~~^^^^^^
+  File "C:\Users\Owner1\AppData\Local\Programs\Python\Python313\Lib\asyncio\runners.py", line 123, in run
+    raise KeyboardInterrupt()
+KeyboardInterrupt
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Owner1\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\routing.py", line 699, in lifespan
+    await receive()
+  File "C:\Users\Owner1\AppData\Local\Programs\Python\Python313\Lib\site-packages\uvicorn\lifespan\on.py", line 137, in receive
+    return await self.receive_queue.get()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Owner1\AppData\Local\Programs\Python\Python313\Lib\asyncio\queues.py", line 186, in get
+    await getter
+asyncio.exceptions.CancelledError
+
+2025-06-02 15:29:39,734 | INFO | 6 changes detected
+2025-06-02 15:29:43,735 | INFO | Started server process [11292]
+2025-06-02 15:29:43,738 | INFO | Waiting for application startup.
+2025-06-02 15:29:43,739 | INFO | Application startup complete.
+2025-06-02 15:30:22,508 | INFO | 1 change detected
+2025-06-02 15:30:22,508 | WARNING | WatchFiles detected changes in 'metrics\metrics.py'. Reloading...
+2025-06-02 15:30:22,609 | INFO | Shutting down
+2025-06-02 15:30:22,716 | INFO | Waiting for application shutdown.
+2025-06-02 15:30:22,718 | INFO | Application shutdown complete.
+2025-06-02 15:30:22,720 | INFO | Finished server process [11292]
+2025-06-02 15:30:25,711 | INFO | 1 change detected
+2025-06-02 15:30:27,783 | INFO | 5 changes detected
+2025-06-02 15:30:29,600 | INFO | Started server process [29380]
+2025-06-02 15:30:29,602 | INFO | Waiting for application startup.
+2025-06-02 15:30:29,604 | INFO | Application startup complete.
+2025-06-02 15:31:25,562 | INFO | 1 change detected
+2025-06-02 15:31:25,563 | WARNING | WatchFiles detected changes in 'APIWrapper\api_wrapper_impl.py'. Reloading...
+2025-06-02 15:31:25,671 | INFO | Shutting down
+2025-06-02 15:31:25,782 | INFO | Waiting for application shutdown.
+2025-06-02 15:31:25,786 | INFO | Application shutdown complete.
+2025-06-02 15:31:25,789 | INFO | Finished server process [29380]
+2025-06-02 15:31:28,822 | INFO | 1 change detected
+2025-06-02 15:31:29,635 | INFO | 5 changes detected
+2025-06-02 15:31:33,219 | INFO | Started server process [38872]
+2025-06-02 15:31:33,222 | INFO | Waiting for application startup.
+2025-06-02 15:31:33,223 | INFO | Application startup complete.
+2025-06-02 15:31:37,611 | INFO | {'prompt': 'this is a test', 'metadata': {}, 'model': 'models/gemini-2.0-flash', 'response': 'washington Received.', 'latency_sec': 0.653, 'status': 'success'}
+2025-06-02 15:31:37,612 | ERROR | {'prompt': 'this is a test', 'metadata': {}, 'model': 'models/gemini-2.0-flash', 'response': 'washington Received.', 'latency_sec': 0.663, 'status': 'error', 'error': "'latency'"}
+2025-06-02 15:31:37,663 | INFO | 1 change detected
+2025-06-02 15:31:39,036 | INFO | 1 change detected
+2025-06-02 15:31:39,400 | INFO | 1 change detected
+2025-06-02 15:31:39,759 | INFO | 1 change detected
+2025-06-02 15:31:40,117 | INFO | 1 change detected
+2025-06-02 15:31:40,475 | INFO | 1 change detected
+2025-06-02 15:31:40,884 | INFO | 1 change detected
+2025-06-02 15:31:41,300 | INFO | 1 change detected
+2025-06-02 15:31:41,707 | INFO | 1 change detected
+2025-06-02 15:31:42,110 | INFO | 1 change detected
+2025-06-02 15:31:42,462 | INFO | 1 change detected
+2025-06-02 15:31:42,822 | INFO | 1 change detected
+2025-06-02 15:31:43,229 | INFO | 1 change detected
+2025-06-02 15:31:43,635 | INFO | 1 change detected
+2025-06-02 15:31:43,992 | INFO | 1 change detected
+2025-06-02 15:31:44,404 | INFO | 1 change detected
+2025-06-02 15:31:44,807 | INFO | 1 change detected
+2025-06-02 15:31:45,159 | INFO | 1 change detected
+2025-06-02 15:31:45,516 | INFO | 1 change detected
+2025-06-02 15:31:45,920 | INFO | 1 change detected
+2025-06-02 15:31:46,325 | INFO | 1 change detected
+2025-06-02 15:31:46,740 | INFO | 1 change detected
+2025-06-02 15:31:47,147 | INFO | 1 change detected
+2025-06-02 15:31:47,552 | INFO | 1 change detected
+2025-06-02 15:31:47,907 | INFO | 1 change detected
+2025-06-02 15:31:48,267 | INFO | 1 change detected
+2025-06-02 15:31:48,676 | INFO | 1 change detected
+2025-06-02 15:31:49,083 | INFO | 1 change detected
+2025-06-02 15:31:49,449 | INFO | 1 change detected
+2025-06-02 15:31:49,856 | INFO | 1 change detected
+2025-06-02 15:31:50,261 | INFO | 1 change detected
+2025-06-02 15:31:50,612 | INFO | 1 change detected
+2025-06-02 15:31:50,968 | INFO | 1 change detected
+2025-06-02 15:31:51,379 | INFO | 1 change detected
+2025-06-02 15:31:51,784 | INFO | 1 change detected
+2025-06-02 15:31:52,189 | INFO | 1 change detected
+2025-06-02 15:31:52,595 | INFO | 1 change detected
+2025-06-02 15:31:53,000 | INFO | 1 change detected
+2025-06-02 15:31:53,356 | INFO | 1 change detected
+2025-06-02 15:31:53,765 | INFO | 1 change detected
+2025-06-02 15:31:54,169 | INFO | 1 change detected
+2025-06-02 15:31:54,526 | INFO | 1 change detected
+2025-06-02 15:31:54,936 | INFO | 1 change detected
+2025-06-02 15:31:55,339 | INFO | 1 change detected
+2025-06-02 15:31:55,741 | INFO | 1 change detected
+2025-06-02 15:31:56,098 | INFO | 1 change detected
+2025-06-02 15:31:56,508 | INFO | 1 change detected
+2025-06-02 15:31:56,875 | INFO | 1 change detected
+2025-06-02 15:31:57,284 | INFO | 1 change detected
+2025-06-02 15:31:57,686 | INFO | 1 change detected
+2025-06-02 15:31:58,090 | INFO | 1 change detected
+2025-06-02 15:31:58,496 | INFO | 1 change detected
+2025-06-02 15:31:58,853 | INFO | 1 change detected
+2025-06-02 15:31:59,259 | INFO | 1 change detected
+2025-06-02 15:31:59,612 | INFO | 1 change detected
+2025-06-02 15:31:59,971 | INFO | 1 change detected
+2025-06-02 15:32:00,332 | INFO | 1 change detected
+2025-06-02 15:32:00,690 | INFO | 1 change detected
+2025-06-02 15:32:01,047 | INFO | 1 change detected
+2025-06-02 15:32:01,406 | INFO | 1 change detected
+2025-06-02 15:32:01,764 | INFO | 1 change detected
+2025-06-02 15:32:02,175 | INFO | 1 change detected
+2025-06-02 15:32:02,591 | INFO | 1 change detected
+2025-06-02 15:32:02,944 | INFO | 1 change detected
+2025-06-02 15:32:03,355 | INFO | 1 change detected
+2025-06-02 15:32:03,711 | INFO | 1 change detected
+2025-06-02 15:32:04,068 | INFO | 1 change detected
+2025-06-02 15:32:04,425 | INFO | 1 change detected
+2025-06-02 15:32:04,783 | INFO | 1 change detected
+2025-06-02 15:32:05,140 | INFO | 1 change detected
+2025-06-02 15:32:05,496 | INFO | 1 change detected
+2025-06-02 15:32:05,902 | INFO | 1 change detected
+2025-06-02 15:32:06,305 | INFO | 1 change detected
+2025-06-02 15:32:06,711 | INFO | 1 change detected
+2025-06-02 15:32:07,077 | INFO | 1 change detected
+2025-06-02 15:32:07,431 | INFO | 1 change detected
+2025-06-02 15:32:07,790 | INFO | 1 change detected
+2025-06-02 15:32:08,148 | INFO | 1 change detected
+2025-06-02 15:32:08,508 | INFO | 1 change detected
+2025-06-02 15:32:08,864 | INFO | 1 change detected
+2025-06-02 15:32:09,222 | INFO | 1 change detected
+2025-06-02 15:32:09,581 | INFO | 1 change detected
+2025-06-02 15:32:09,938 | INFO | 1 change detected
+2025-06-02 15:32:10,342 | INFO | 1 change detected
+2025-06-02 15:32:10,759 | INFO | 1 change detected
+2025-06-02 15:32:11,126 | INFO | 1 change detected
+2025-06-02 15:32:11,486 | INFO | 1 change detected
+2025-06-02 15:32:11,841 | INFO | 1 change detected
+2025-06-02 15:32:12,251 | INFO | 1 change detected
+2025-06-02 15:32:12,657 | INFO | 1 change detected
+2025-06-02 15:32:13,061 | INFO | 1 change detected
+2025-06-02 15:32:13,469 | INFO | 1 change detected
+2025-06-02 15:32:13,822 | INFO | 1 change detected
+2025-06-02 15:32:14,183 | INFO | 1 change detected
+2025-06-02 15:32:14,592 | INFO | 1 change detected
+2025-06-02 15:32:15,007 | INFO | 1 change detected
+2025-06-02 15:32:15,371 | INFO | 1 change detected
+2025-06-02 15:32:15,780 | INFO | 1 change detected
+2025-06-02 15:32:16,186 | INFO | 1 change detected
+2025-06-02 15:32:16,540 | INFO | 1 change detected
+2025-06-02 15:32:16,900 | INFO | 1 change detected
+2025-06-02 15:32:17,305 | INFO | 1 change detected
+2025-06-02 15:32:17,709 | INFO | 1 change detected
+2025-06-02 15:32:18,112 | INFO | 1 change detected
+2025-06-02 15:32:18,516 | INFO | 1 change detected
+2025-06-02 15:32:18,920 | INFO | 1 change detected
+2025-06-02 15:32:19,272 | INFO | 1 change detected
+2025-06-02 15:32:19,629 | INFO | 1 change detected
+2025-06-02 15:32:20,035 | INFO | 1 change detected
+2025-06-02 15:32:20,441 | INFO | 1 change detected
+2025-06-02 15:32:20,858 | INFO | 1 change detected
+2025-06-02 15:32:21,263 | INFO | 1 change detected
+2025-06-02 15:32:21,669 | INFO | 1 change detected
+2025-06-02 15:32:22,022 | INFO | 1 change detected
+2025-06-02 15:32:22,379 | INFO | 1 change detected
+2025-06-02 15:32:22,788 | INFO | 1 change detected
+2025-06-02 15:32:23,195 | INFO | 1 change detected
+2025-06-02 15:32:23,600 | INFO | 1 change detected
+2025-06-02 15:32:24,005 | INFO | 1 change detected
+2025-06-02 15:32:24,460 | INFO | 1 change detected
+2025-06-02 15:32:24,813 | INFO | 1 change detected
+2025-06-02 15:32:25,171 | INFO | 1 change detected
+2025-06-02 15:32:25,528 | INFO | 1 change detected
+2025-06-02 15:32:25,884 | INFO | 1 change detected
+2025-06-02 15:32:26,293 | INFO | 1 change detected
+2025-06-02 15:32:26,699 | INFO | 1 change detected
+2025-06-02 15:32:27,103 | INFO | 1 change detected
+2025-06-02 15:32:27,455 | INFO | 1 change detected
+2025-06-02 15:32:27,865 | INFO | 1 change detected
+2025-06-02 15:32:28,219 | INFO | 1 change detected
+2025-06-02 15:32:45,684 | INFO | 1 change detected
+2025-06-02 15:32:45,684 | WARNING | WatchFiles detected changes in 'APIWrapper\api_wrapper_impl.py'. Reloading...
+2025-06-02 15:32:45,767 | INFO | Shutting down
+2025-06-02 15:32:45,878 | INFO | Waiting for application shutdown.
+2025-06-02 15:32:45,882 | INFO | Application shutdown complete.
+2025-06-02 15:32:45,885 | INFO | Finished server process [38872]
+2025-06-02 15:32:48,903 | INFO | 1 change detected
+2025-06-02 15:32:49,615 | INFO | 5 changes detected
+2025-06-02 15:32:52,856 | INFO | 1 change detected
+2025-06-02 15:32:52,857 | WARNING | WatchFiles detected changes in 'APIWrapper\api_wrapper_impl.py'. Reloading...
+2025-06-02 15:32:53,344 | INFO | Started server process [15564]
+2025-06-02 15:32:53,348 | INFO | Waiting for application startup.
+2025-06-02 15:32:53,351 | INFO | Application startup complete.
+2025-06-02 15:32:53,358 | ERROR | Traceback (most recent call last):
+  File "C:\Users\Owner1\AppData\Local\Programs\Python\Python313\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\Owner1\AppData\Local\Programs\Python\Python313\Lib\asyncio\base_events.py", line 720, in run_until_complete
+    return future.result()
+           ~~~~~~~~~~~~~^^
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Owner1\AppData\Local\Programs\Python\Python313\Lib\asyncio\runners.py", line 194, in run
+    return runner.run(main)
+           ~~~~~~~~~~^^^^^^
+  File "C:\Users\Owner1\AppData\Local\Programs\Python\Python313\Lib\asyncio\runners.py", line 123, in run
+    raise KeyboardInterrupt()
+KeyboardInterrupt
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Owner1\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\routing.py", line 699, in lifespan
+    await receive()
+  File "C:\Users\Owner1\AppData\Local\Programs\Python\Python313\Lib\site-packages\uvicorn\lifespan\on.py", line 137, in receive
+    return await self.receive_queue.get()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Owner1\AppData\Local\Programs\Python\Python313\Lib\asyncio\queues.py", line 186, in get
+    await getter
+asyncio.exceptions.CancelledError
+
+2025-06-02 15:32:56,312 | INFO | 1 change detected
+2025-06-02 15:32:57,021 | INFO | 5 changes detected
+2025-06-02 15:33:00,441 | INFO | Started server process [8660]
+2025-06-02 15:33:00,444 | INFO | Waiting for application startup.
+2025-06-02 15:33:00,447 | INFO | Application startup complete.
+2025-06-02 15:33:00,452 | ERROR | Traceback (most recent call last):
+  File "C:\Users\Owner1\AppData\Local\Programs\Python\Python313\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\Owner1\AppData\Local\Programs\Python\Python313\Lib\asyncio\base_events.py", line 720, in run_until_complete
+    return future.result()
+           ~~~~~~~~~~~~~^^
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Owner1\AppData\Local\Programs\Python\Python313\Lib\asyncio\runners.py", line 194, in run
+    return runner.run(main)
+           ~~~~~~~~~~^^^^^^
+  File "C:\Users\Owner1\AppData\Local\Programs\Python\Python313\Lib\asyncio\runners.py", line 123, in run
+    raise KeyboardInterrupt()
+KeyboardInterrupt
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Owner1\AppData\Local\Programs\Python\Python313\Lib\site-packages\starlette\routing.py", line 699, in lifespan
+    await receive()
+  File "C:\Users\Owner1\AppData\Local\Programs\Python\Python313\Lib\site-packages\uvicorn\lifespan\on.py", line 137, in receive
+    return await self.receive_queue.get()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Owner1\AppData\Local\Programs\Python\Python313\Lib\asyncio\queues.py", line 186, in get
+    await getter
+asyncio.exceptions.CancelledError
+
+2025-06-02 15:33:03,085 | INFO | Stopping reloader process [18812]
+2025-06-02 15:33:10,458 | INFO | Will watch for changes in these directories: ['C:\\Users\\Owner1\\Desktop\\AIObservability-Monitoring_InnerAI']
+2025-06-02 15:33:10,461 | INFO | Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2025-06-02 15:33:10,462 | INFO | Started reloader process [28160] using WatchFiles
+2025-06-02 15:33:15,085 | INFO | Started server process [11968]
+2025-06-02 15:33:15,088 | INFO | Waiting for application startup.
+2025-06-02 15:33:15,091 | INFO | Application startup complete.
+2025-06-02 15:33:35,849 | INFO | {'prompt': 'this is a test', 'metadata': {}, 'model': 'models/gemini-2.0-flash', 'response': 'This message has been received. washington', 'latency_sec': 0.529, 'status': 'success'}
+2025-06-02 15:33:35,911 | INFO | 1 change detected
+2025-06-02 15:33:37,224 | INFO | 1 change detected
+2025-06-02 15:33:37,588 | INFO | 1 change detected
+2025-06-02 15:33:37,949 | INFO | 1 change detected
+2025-06-02 15:33:38,358 | INFO | 1 change detected
+2025-06-02 15:33:38,724 | INFO | 1 change detected
+2025-06-02 15:33:39,130 | INFO | 1 change detected
+2025-06-02 15:33:39,483 | INFO | 1 change detected
+2025-06-02 15:33:39,837 | INFO | 1 change detected
+2025-06-02 15:33:40,246 | INFO | 1 change detected
+2025-06-02 15:33:40,651 | INFO | 1 change detected
+2025-06-02 15:33:41,005 | INFO | 1 change detected
+2025-06-02 15:33:41,363 | INFO | 1 change detected
+2025-06-02 15:33:41,714 | INFO | 1 change detected
+2025-06-02 15:33:42,121 | INFO | 1 change detected
+2025-06-02 15:33:42,524 | INFO | 1 change detected
+2025-06-02 15:33:42,929 | INFO | 1 change detected
+2025-06-02 15:33:43,331 | INFO | 1 change detected
+2025-06-02 15:33:43,689 | INFO | 1 change detected
+2025-06-02 15:33:44,046 | INFO | 1 change detected
+2025-06-02 15:33:44,454 | INFO | 1 change detected
+2025-06-02 15:33:44,860 | INFO | 1 change detected
+2025-06-02 15:33:45,213 | INFO | 1 change detected
+2025-06-02 15:33:45,618 | INFO | 1 change detected
+2025-06-02 15:33:45,974 | INFO | 1 change detected
+2025-06-02 15:33:46,328 | INFO | 1 change detected
+2025-06-02 15:33:46,683 | INFO | 1 change detected
+2025-06-02 15:33:47,038 | INFO | 1 change detected
+2025-06-02 15:33:47,402 | INFO | 1 change detected
+2025-06-02 15:33:47,758 | INFO | 1 change detected
+2025-06-02 15:33:48,116 | INFO | 1 change detected
+2025-06-02 15:33:48,472 | INFO | 1 change detected
+2025-06-02 15:33:48,832 | INFO | 1 change detected
+2025-06-02 15:33:49,189 | INFO | 1 change detected
+2025-06-02 15:33:49,554 | INFO | 1 change detected
+2025-06-02 15:33:49,961 | INFO | 1 change detected
+2025-06-02 15:33:50,363 | INFO | 1 change detected
+2025-06-02 15:33:50,770 | INFO | 1 change detected
+2025-06-02 15:33:51,173 | INFO | 1 change detected
+2025-06-02 15:33:51,579 | INFO | 1 change detected
+2025-06-02 15:33:51,935 | INFO | 1 change detected
+2025-06-02 15:33:52,291 | INFO | 1 change detected
+2025-06-02 15:33:52,695 | INFO | 1 change detected
+2025-06-02 15:33:53,061 | INFO | 1 change detected
+2025-06-02 15:33:53,470 | INFO | 1 change detected
+2025-06-02 15:33:53,875 | INFO | 1 change detected
+2025-06-02 15:33:54,279 | INFO | 1 change detected
+2025-06-02 15:33:54,633 | INFO | 1 change detected
+2025-06-02 15:33:55,038 | INFO | 1 change detected
+2025-06-02 15:33:55,395 | INFO | 1 change detected
+2025-06-02 15:33:55,802 | INFO | 1 change detected
+2025-06-02 15:33:56,208 | INFO | 1 change detected
+2025-06-02 15:33:56,613 | INFO | 1 change detected
+2025-06-02 15:33:57,018 | INFO | 1 change detected
+2025-06-02 15:33:57,373 | INFO | 1 change detected
+2025-06-02 15:33:57,778 | INFO | 1 change detected
+2025-06-02 15:33:58,180 | INFO | 1 change detected
+2025-06-02 15:33:58,583 | INFO | 1 change detected
+2025-06-02 15:33:59,036 | INFO | 1 change detected
+2025-06-02 15:33:59,438 | INFO | 1 change detected
+2025-06-02 15:33:59,840 | INFO | 1 change detected
+2025-06-02 15:34:00,193 | INFO | 1 change detected
+2025-06-02 15:34:00,551 | INFO | 1 change detected
+2025-06-02 15:34:00,908 | INFO | 1 change detected
+2025-06-02 15:34:01,268 | INFO | 1 change detected
+2025-06-02 15:34:01,623 | INFO | 1 change detected
+2025-06-02 15:34:01,979 | INFO | 1 change detected
+2025-06-02 15:34:02,337 | INFO | 1 change detected
+2025-06-02 15:34:02,693 | INFO | 1 change detected
+2025-06-02 15:34:03,054 | INFO | 1 change detected
+2025-06-02 15:34:03,461 | INFO | 1 change detected
+2025-06-02 15:34:03,866 | INFO | 1 change detected
+2025-06-02 15:34:04,219 | INFO | 1 change detected
+2025-06-02 15:34:04,579 | INFO | 1 change detected
+2025-06-02 15:34:04,985 | INFO | 1 change detected
+2025-06-02 15:34:05,391 | INFO | 1 change detected
+2025-06-02 15:34:05,796 | INFO | 1 change detected
+2025-06-02 15:34:06,201 | INFO | 1 change detected
+2025-06-02 15:34:06,607 | INFO | 1 change detected
+2025-06-02 15:34:06,962 | INFO | 1 change detected
+2025-06-02 15:34:07,321 | INFO | 1 change detected
+2025-06-02 15:34:07,731 | INFO | 1 change detected
+2025-06-02 15:34:08,135 | INFO | 1 change detected
+2025-06-02 15:34:08,540 | INFO | 1 change detected
+2025-06-02 15:34:08,945 | INFO | 1 change detected
+2025-06-02 15:34:09,352 | INFO | 1 change detected
+2025-06-02 15:34:09,705 | INFO | 1 change detected
+2025-06-02 15:34:10,059 | INFO | 1 change detected
+2025-06-02 15:34:10,465 | INFO | 1 change detected
+2025-06-02 15:34:10,869 | INFO | 1 change detected
+2025-06-02 15:34:11,275 | INFO | 1 change detected
+2025-06-02 15:34:11,680 | INFO | 1 change detected
+2025-06-02 15:34:12,084 | INFO | 1 change detected
+2025-06-02 15:34:12,438 | INFO | 1 change detected
+2025-06-02 15:34:12,799 | INFO | 1 change detected
+2025-06-02 15:34:13,207 | INFO | 1 change detected
+2025-06-02 15:34:13,520 | INFO | Shutting down
+2025-06-02 15:34:13,630 | INFO | Waiting for application shutdown.
+2025-06-02 15:34:13,633 | INFO | Application shutdown complete.
+2025-06-02 15:34:13,636 | INFO | Finished server process [11968]
+2025-06-02 15:34:16,269 | INFO | Stopping reloader process [28160]
+2025-06-02 15:34:43,544 | INFO | Will watch for changes in these directories: ['C:\\Users\\Owner1\\Desktop\\AIObservability-Monitoring_InnerAI']
+2025-06-02 15:34:43,547 | INFO | Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2025-06-02 15:34:43,550 | INFO | Started reloader process [22324] using WatchFiles
+2025-06-02 15:34:47,921 | INFO | Started server process [3524]
+2025-06-02 15:34:47,923 | INFO | Waiting for application startup.
+2025-06-02 15:34:47,925 | INFO | Application startup complete.
+2025-06-02 15:38:03,281 | INFO | 1 change detected
+2025-06-02 15:38:03,283 | WARNING | WatchFiles detected changes in 'testing\testing.py'. Reloading...
+2025-06-02 15:38:03,306 | INFO | Shutting down
+2025-06-02 15:38:03,414 | INFO | Waiting for application shutdown.
+2025-06-02 15:38:03,416 | INFO | Application shutdown complete.
+2025-06-02 15:38:03,418 | INFO | Finished server process [3524]
+2025-06-02 15:38:06,445 | INFO | 1 change detected
+2025-06-02 15:38:07,305 | INFO | 5 changes detected
+2025-06-02 15:38:10,801 | INFO | Started server process [18128]
+2025-06-02 15:38:10,803 | INFO | Waiting for application startup.
+2025-06-02 15:38:10,804 | INFO | Application startup complete.
+2025-06-02 15:39:03,579 | INFO | 1 change detected
+2025-06-02 15:39:03,580 | WARNING | WatchFiles detected changes in 'APIWrapper\api_wrapper_impl.py'. Reloading...
+2025-06-02 15:39:03,589 | INFO | Shutting down
+2025-06-02 15:39:03,697 | INFO | Waiting for application shutdown.
+2025-06-02 15:39:03,702 | INFO | Application shutdown complete.
+2025-06-02 15:39:03,706 | INFO | Finished server process [18128]
+2025-06-02 15:39:06,743 | INFO | 1 change detected
+2025-06-02 15:39:07,456 | INFO | 5 changes detected
+2025-06-02 15:39:10,696 | INFO | Started server process [19244]
+2025-06-02 15:39:10,698 | INFO | Waiting for application startup.
+2025-06-02 15:39:10,700 | INFO | Application startup complete.
+2025-06-02 15:40:47,013 | INFO | 1 change detected
+2025-06-02 15:40:47,014 | WARNING | WatchFiles detected changes in 'metrics\metrics.py'. Reloading...
+2025-06-02 15:40:47,033 | INFO | Shutting down
+2025-06-02 15:40:47,143 | INFO | Waiting for application shutdown.
+2025-06-02 15:40:47,146 | INFO | Application shutdown complete.
+2025-06-02 15:40:47,148 | INFO | Finished server process [19244]
+2025-06-02 15:40:50,146 | INFO | 1 change detected
+2025-06-02 15:40:52,676 | INFO | 5 changes detected
+2025-06-02 15:40:54,576 | INFO | Started server process [30748]
+2025-06-02 15:40:54,579 | INFO | Waiting for application startup.
+2025-06-02 15:40:54,580 | INFO | Application startup complete.
+2025-06-02 15:41:37,241 | INFO | {'prompt': 'Define synthesis', 'metadata': {}, 'model': 'models/gemini-2.0-flash', 'response': 'Synthesis is the process of combining different ideas, information, or things into a new, coherent whole. It involves analyzing individual components, identifying relationships between them, and then creating something new that is more than just the sum of its parts. washington', 'latency_sec': 0.981, 'status': 'success'}
+2025-06-02 15:41:37,308 | INFO | 1 change detected
+2025-06-02 15:41:38,668 | INFO | 1 change detected
+2025-06-02 15:41:39,029 | INFO | 1 change detected
+2025-06-02 15:41:39,384 | INFO | 1 change detected
+2025-06-02 15:41:39,742 | INFO | 1 change detected
+2025-06-02 15:41:40,152 | INFO | 1 change detected
+2025-06-02 15:41:40,559 | INFO | 1 change detected
+2025-06-02 15:41:40,912 | INFO | 1 change detected
+2025-06-02 15:41:41,264 | INFO | 1 change detected
+2025-06-02 15:41:41,646 | ERROR | {'prompt': 'Define synthesis', 'metadata': {}, 'model': 'models/gemini-2.0-flash', 'response': 'Synthesis is the process of combining different ideas, information, or things into a new, coherent whole. It involves analyzing individual components, identifying relationships between them, and then creating something new that is more than just the sum of its parts. washington', 'latency_sec': 5.393, 'status': 'error', 'error': "'str' object has no attribute 'text'"}
+2025-06-02 15:41:41,670 | INFO | 1 change detected
+2025-06-02 15:41:42,073 | INFO | 1 change detected
+2025-06-02 15:41:42,482 | INFO | 1 change detected
+2025-06-02 15:41:42,884 | INFO | 1 change detected
+2025-06-02 15:41:43,289 | INFO | 1 change detected
+2025-06-02 15:41:43,643 | INFO | 1 change detected
+2025-06-02 15:41:44,000 | INFO | 1 change detected
+2025-06-02 15:41:44,355 | INFO | 1 change detected
+2025-06-02 15:41:44,763 | INFO | 1 change detected
+2025-06-02 15:41:45,168 | INFO | 1 change detected
+2025-06-02 15:41:45,573 | INFO | 1 change detected
+2025-06-02 15:41:45,977 | INFO | 1 change detected
+2025-06-02 15:41:46,331 | INFO | 1 change detected
+2025-06-02 15:41:46,737 | INFO | 1 change detected
+2025-06-02 15:41:47,089 | INFO | 1 change detected
+2025-06-02 15:41:47,497 | INFO | 1 change detected
+2025-06-02 15:41:47,900 | INFO | 1 change detected
+2025-06-02 15:41:48,301 | INFO | 1 change detected
+2025-06-02 15:41:48,706 | INFO | 1 change detected
+2025-06-02 15:41:49,071 | INFO | 1 change detected
+2025-06-02 15:41:49,430 | INFO | 1 change detected
+2025-06-02 15:41:49,838 | INFO | 1 change detected
+2025-06-02 15:41:50,240 | INFO | 1 change detected
+2025-06-02 15:41:50,646 | INFO | 1 change detected
+2025-06-02 15:41:51,051 | INFO | 1 change detected
+2025-06-02 15:41:51,456 | INFO | 1 change detected
+2025-06-02 15:41:51,811 | INFO | 1 change detected
+2025-06-02 15:41:52,168 | INFO | 1 change detected
+2025-06-02 15:41:52,576 | INFO | 1 change detected
+2025-06-02 15:41:52,981 | INFO | 1 change detected
+2025-06-02 15:41:53,385 | INFO | 1 change detected
+2025-06-02 15:41:53,788 | INFO | 1 change detected
+2025-06-02 15:41:54,193 | INFO | 1 change detected
+2025-06-02 15:41:54,545 | INFO | 1 change detected
+2025-06-02 15:41:54,904 | INFO | 1 change detected
+2025-06-02 15:41:55,264 | INFO | 1 change detected
+2025-06-02 15:41:55,673 | INFO | 1 change detected
+2025-06-02 15:41:56,078 | INFO | 1 change detected
+2025-06-02 15:41:56,479 | INFO | 1 change detected
+2025-06-02 15:41:56,885 | INFO | 1 change detected
+2025-06-02 15:41:57,239 | INFO | 1 change detected
+2025-06-02 15:41:57,601 | INFO | 1 change detected
+2025-06-02 15:41:57,958 | INFO | 1 change detected
+2025-06-02 15:41:58,365 | INFO | 1 change detected
+2025-06-02 15:41:58,770 | INFO | 1 change detected
+2025-06-02 15:41:59,175 | INFO | 1 change detected
+2025-06-02 15:41:59,577 | INFO | 1 change detected
+2025-06-02 15:41:59,935 | INFO | 1 change detected
+2025-06-02 15:42:00,289 | INFO | 1 change detected
+2025-06-02 15:42:00,648 | INFO | 1 change detected
+2025-06-02 15:42:01,054 | INFO | 1 change detected
+2025-06-02 15:42:01,457 | INFO | 1 change detected
+2025-06-02 15:42:01,914 | INFO | 1 change detected
+2025-06-02 15:42:02,279 | INFO | 1 change detected
+2025-06-02 15:42:02,635 | INFO | 1 change detected
+2025-06-02 15:42:02,993 | INFO | 1 change detected
+2025-06-02 15:42:03,350 | INFO | 1 change detected
+2025-06-02 15:42:03,761 | INFO | 1 change detected
+2025-06-02 15:42:04,178 | INFO | 1 change detected
+2025-06-02 15:42:04,583 | INFO | 1 change detected
+2025-06-02 15:42:04,989 | INFO | 1 change detected
+2025-06-02 15:42:05,355 | INFO | 1 change detected
+2025-06-02 15:42:05,715 | INFO | 1 change detected
+2025-06-02 15:42:06,122 | INFO | 1 change detected
+2025-06-02 15:42:06,529 | INFO | 1 change detected
+2025-06-02 15:42:06,936 | INFO | 1 change detected
+2025-06-02 15:42:07,301 | INFO | 1 change detected
+2025-06-02 15:42:07,708 | INFO | 1 change detected
+2025-06-02 15:42:08,063 | INFO | 1 change detected
+2025-06-02 15:42:08,422 | INFO | 1 change detected
+2025-06-02 15:42:08,831 | INFO | 1 change detected
+2025-06-02 15:42:09,238 | INFO | 1 change detected
+2025-06-02 15:42:09,593 | INFO | 1 change detected
+2025-06-02 15:42:09,950 | INFO | 1 change detected
+2025-06-02 15:42:10,305 | INFO | 1 change detected
+2025-06-02 15:42:10,663 | INFO | 1 change detected
+2025-06-02 15:42:11,019 | INFO | 1 change detected
+2025-06-02 15:42:11,379 | INFO | 1 change detected
+2025-06-02 15:42:11,737 | INFO | 1 change detected
+2025-06-02 15:42:12,095 | INFO | 1 change detected
+2025-06-02 15:42:12,450 | INFO | 1 change detected
+2025-06-02 15:42:12,806 | INFO | 1 change detected
+2025-06-02 15:42:13,215 | INFO | 1 change detected
+2025-06-02 15:42:13,567 | INFO | 1 change detected
+2025-06-02 15:42:13,929 | INFO | 1 change detected
+2025-06-02 15:42:14,337 | INFO | 1 change detected
+2025-06-02 15:42:14,753 | INFO | 1 change detected
+2025-06-02 15:42:15,158 | INFO | 1 change detected
+2025-06-02 15:42:15,575 | INFO | 1 change detected
+2025-06-02 15:42:15,979 | INFO | 1 change detected
+2025-06-02 15:42:16,334 | INFO | 1 change detected
+2025-06-02 15:42:16,690 | INFO | 1 change detected
+2025-06-02 15:42:17,102 | INFO | 1 change detected
+2025-06-02 15:42:17,506 | INFO | 1 change detected
+2025-06-02 15:42:17,913 | INFO | 1 change detected
+2025-06-02 15:42:18,316 | INFO | 1 change detected
+2025-06-02 15:42:18,720 | INFO | 1 change detected
+2025-06-02 15:42:19,075 | INFO | 1 change detected
+2025-06-02 15:42:19,433 | INFO | 1 change detected
+2025-06-02 15:42:19,792 | INFO | 1 change detected
+2025-06-02 15:42:20,199 | INFO | 1 change detected
+2025-06-02 15:42:20,605 | INFO | 1 change detected
+2025-06-02 15:42:21,009 | INFO | 1 change detected
+2025-06-02 15:42:21,412 | INFO | 1 change detected
+2025-06-02 15:42:21,766 | INFO | 1 change detected
+2025-06-02 15:42:22,125 | INFO | 1 change detected
+2025-06-02 15:42:22,531 | INFO | 1 change detected
+2025-06-02 15:42:22,937 | INFO | 1 change detected
+2025-06-02 15:42:23,342 | INFO | 1 change detected
+2025-06-02 15:42:23,744 | INFO | 1 change detected
+2025-06-02 15:42:24,148 | INFO | 1 change detected
+2025-06-02 15:42:24,502 | INFO | 1 change detected
+2025-06-02 15:42:24,911 | INFO | 1 change detected
+2025-06-02 15:42:25,313 | INFO | 1 change detected
+2025-06-02 15:42:25,719 | INFO | 1 change detected
+2025-06-02 15:42:26,127 | INFO | 1 change detected
+2025-06-02 15:42:26,530 | INFO | 1 change detected
+2025-06-02 15:42:26,935 | INFO | 1 change detected
+2025-06-02 15:42:27,289 | INFO | 1 change detected
+2025-06-02 15:42:27,648 | INFO | 1 change detected
+2025-06-02 15:42:28,057 | INFO | 1 change detected
+2025-06-02 15:42:28,422 | INFO | 1 change detected
+2025-06-02 15:42:28,826 | INFO | 1 change detected
+2025-06-02 15:42:29,233 | INFO | 1 change detected
+2025-06-02 15:42:29,638 | INFO | 1 change detected
+2025-06-02 15:42:29,992 | INFO | 1 change detected
+2025-06-02 15:42:30,349 | INFO | 1 change detected
+2025-06-02 15:42:30,707 | INFO | 1 change detected
+2025-06-02 15:42:31,066 | INFO | 1 change detected
+2025-06-02 15:42:31,423 | INFO | 1 change detected
+2025-06-02 15:42:31,782 | INFO | 1 change detected
+2025-06-02 15:42:32,137 | INFO | 1 change detected
+2025-06-02 15:42:32,494 | INFO | 1 change detected
+2025-06-02 15:42:32,851 | INFO | 1 change detected
+2025-06-02 15:42:33,204 | INFO | 1 change detected
+2025-06-02 15:42:33,564 | INFO | 1 change detected
+2025-06-02 15:42:33,923 | INFO | 1 change detected
+2025-06-02 15:42:34,282 | INFO | 1 change detected
+2025-06-02 15:42:34,635 | INFO | 1 change detected
+2025-06-02 15:42:34,994 | INFO | 1 change detected
+2025-06-02 15:42:35,351 | INFO | 1 change detected
+2025-06-02 15:42:35,706 | INFO | 1 change detected
+2025-06-02 15:42:36,112 | INFO | 1 change detected
+2025-06-02 15:42:36,477 | INFO | 1 change detected
+2025-06-02 15:42:36,886 | INFO | 1 change detected
+2025-06-02 15:42:37,292 | INFO | 1 change detected
+2025-06-02 15:42:37,695 | INFO | 1 change detected
+2025-06-02 15:42:38,049 | INFO | 1 change detected
+2025-06-02 15:42:38,409 | INFO | 1 change detected
+2025-06-02 15:42:38,817 | INFO | 1 change detected
+2025-06-02 15:42:39,225 | INFO | 1 change detected
+2025-06-02 15:42:39,578 | INFO | 1 change detected
+2025-06-02 15:42:39,935 | INFO | 1 change detected
+2025-06-02 15:42:40,290 | INFO | 1 change detected
+2025-06-02 15:42:40,648 | INFO | 1 change detected
+2025-06-02 15:42:41,007 | INFO | 1 change detected
+2025-06-02 15:42:41,365 | INFO | 1 change detected
+2025-06-02 15:42:41,724 | INFO | 1 change detected
+2025-06-02 15:42:42,080 | INFO | 1 change detected
+2025-06-02 15:42:42,436 | INFO | 1 change detected
+2025-06-02 15:42:42,792 | INFO | 1 change detected
+2025-06-02 15:42:43,148 | INFO | 1 change detected
+2025-06-02 15:42:43,554 | INFO | 1 change detected
+2025-06-02 15:42:43,920 | INFO | 1 change detected
+2025-06-02 15:42:44,326 | INFO | 1 change detected
+2025-06-02 15:42:44,733 | INFO | 1 change detected
+2025-06-02 15:42:45,138 | INFO | 1 change detected
+2025-06-02 15:42:45,543 | INFO | 1 change detected
+2025-06-02 15:42:45,947 | INFO | 1 change detected
+2025-06-02 15:42:46,352 | INFO | 1 change detected
+2025-06-02 15:42:46,753 | INFO | 1 change detected
+2025-06-02 15:42:47,160 | INFO | 1 change detected
+2025-06-02 15:42:47,569 | INFO | 1 change detected
+2025-06-02 15:42:47,986 | INFO | 1 change detected
+2025-06-02 15:42:48,392 | INFO | 1 change detected
+2025-06-02 15:42:48,794 | INFO | 1 change detected
+2025-06-02 15:42:49,202 | INFO | 1 change detected
+2025-06-02 15:42:49,654 | INFO | 4 changes detected
+2025-06-02 15:42:50,071 | INFO | 13 changes detected
+2025-06-02 15:42:50,477 | INFO | 1 change detected
+2025-06-02 15:42:50,881 | INFO | 1 change detected
+2025-06-02 15:42:51,234 | INFO | 1 change detected
+2025-06-02 15:42:51,591 | INFO | 1 change detected
+2025-06-02 15:42:51,948 | INFO | 1 change detected
+2025-06-02 15:42:52,304 | INFO | 1 change detected
+2025-06-02 15:42:52,662 | INFO | 1 change detected
+2025-06-02 15:42:53,019 | INFO | 1 change detected
+2025-06-02 15:42:53,428 | INFO | 1 change detected
+2025-06-02 15:42:53,781 | INFO | 1 change detected
+2025-06-02 15:42:54,140 | INFO | 1 change detected
+2025-06-02 15:42:54,497 | INFO | 1 change detected
+2025-06-02 15:42:54,857 | INFO | 1 change detected
+2025-06-02 15:42:55,216 | INFO | 1 change detected
+2025-06-02 15:42:55,572 | INFO | 1 change detected
+2025-06-02 15:42:55,933 | INFO | 1 change detected
+2025-06-02 15:42:56,293 | INFO | 1 change detected
+2025-06-02 15:42:56,650 | INFO | 1 change detected
+2025-06-02 15:42:57,005 | INFO | 1 change detected
+2025-06-02 15:42:57,416 | INFO | 1 change detected
+2025-06-02 15:42:57,869 | INFO | 1 change detected
+2025-06-02 15:42:58,234 | INFO | 1 change detected
+2025-06-02 15:42:58,586 | INFO | 1 change detected
+2025-06-02 15:42:58,944 | INFO | 1 change detected
+2025-06-02 15:42:59,351 | INFO | 1 change detected
+2025-06-02 15:42:59,754 | INFO | 1 change detected
+2025-06-02 15:43:00,111 | INFO | 1 change detected
+2025-06-02 15:43:00,519 | INFO | 1 change detected
+2025-06-02 15:43:00,923 | INFO | 1 change detected
+2025-06-02 15:43:01,276 | INFO | 1 change detected
+2025-06-02 15:43:01,687 | INFO | 1 change detected
+2025-06-02 15:43:02,092 | INFO | 1 change detected
+2025-06-02 15:43:02,458 | INFO | 1 change detected
+2025-06-02 15:43:02,862 | INFO | 1 change detected
+2025-06-02 15:43:03,266 | INFO | 1 change detected
+2025-06-02 15:43:03,671 | INFO | 1 change detected
+2025-06-02 15:43:04,023 | INFO | 1 change detected
+2025-06-02 15:43:04,381 | INFO | 1 change detected
+2025-06-02 15:43:04,785 | INFO | 1 change detected
+2025-06-02 15:43:05,190 | INFO | 1 change detected
+2025-06-02 15:43:05,594 | INFO | 1 change detected
+2025-06-02 15:43:05,997 | INFO | 1 change detected
+2025-06-02 15:43:06,403 | INFO | 1 change detected
+2025-06-02 15:43:06,757 | INFO | 1 change detected
+2025-06-02 15:43:07,168 | INFO | 1 change detected
+2025-06-02 15:43:08,532 | INFO | 1 change detected
+2025-06-02 15:43:08,897 | INFO | 1 change detected
+2025-06-02 15:43:09,257 | INFO | 1 change detected
+2025-06-02 15:43:09,611 | INFO | 1 change detected
+2025-06-02 15:43:10,022 | INFO | 1 change detected
+2025-06-02 15:43:10,376 | INFO | 1 change detected
+2025-06-02 15:43:10,731 | INFO | 1 change detected
+2025-06-02 15:43:11,089 | INFO | 1 change detected
+2025-06-02 15:43:11,447 | INFO | 1 change detected
+2025-06-02 15:43:11,798 | INFO | 1 change detected
+2025-06-02 15:43:12,157 | INFO | 1 change detected
+2025-06-02 15:43:12,514 | INFO | 1 change detected
+2025-06-02 15:43:12,874 | INFO | 1 change detected
+2025-06-02 15:43:13,234 | INFO | 1 change detected
+2025-06-02 15:43:13,641 | INFO | 1 change detected
+2025-06-02 15:43:14,048 | INFO | 1 change detected
+2025-06-02 15:43:14,453 | INFO | 1 change detected
+2025-06-02 15:43:14,807 | INFO | 1 change detected
+2025-06-02 15:43:15,168 | INFO | 1 change detected
+2025-06-02 15:43:15,576 | INFO | 1 change detected
+2025-06-02 15:43:15,980 | INFO | 1 change detected
+2025-06-02 15:43:16,336 | INFO | 1 change detected
+2025-06-02 15:43:16,697 | INFO | 1 change detected
+2025-06-02 15:43:17,054 | INFO | 1 change detected
+2025-06-02 15:43:17,459 | INFO | 1 change detected
+2025-06-02 15:43:17,864 | INFO | 1 change detected
+2025-06-02 15:43:18,228 | INFO | 1 change detected
+2025-06-02 15:43:18,229 | WARNING | WatchFiles detected changes in 'APIWrapper\api_wrapper_impl.py'. Reloading...
+2025-06-02 15:43:18,300 | INFO | Shutting down
+2025-06-02 15:43:18,408 | INFO | Waiting for application shutdown.
+2025-06-02 15:43:18,412 | INFO | Application shutdown complete.
+2025-06-02 15:43:18,415 | INFO | Finished server process [30748]
+2025-06-02 15:43:21,472 | INFO | 1 change detected
+2025-06-02 15:43:22,130 | INFO | 5 changes detected
+2025-06-02 15:43:25,436 | INFO | Started server process [16904]
+2025-06-02 15:43:25,439 | INFO | Waiting for application startup.
+2025-06-02 15:43:25,441 | INFO | Application startup complete.
+2025-06-02 15:43:45,537 | INFO | {'prompt': 'What is a rainbow', 'metadata': {}, 'model': 'models/gemini-2.0-flash', 'response': 'A rainbow is a meteorological phenomenon that is caused by reflection, refraction, and dispersion of light in water droplets resulting in a spectrum of light appearing in the sky. It takes the form of a multicolored arc. washington The most commonly visible form is caused by sunlight, but rainbows can also be caused by moonlight.', 'latency_sec': 0.971, 'status': 'success'}
+2025-06-02 15:43:45,610 | INFO | 1 change detected
+2025-06-02 15:43:46,220 | INFO | 1 change detected
+2025-06-02 15:43:49,326 | ERROR | {'prompt': 'What is a rainbow', 'metadata': {}, 'model': 'models/gemini-2.0-flash', 'response': 'A rainbow is a meteorological phenomenon that is caused by reflection, refraction, and dispersion of light in water droplets resulting in a spectrum of light appearing in the sky. It takes the form of a multicolored arc. washington The most commonly visible form is caused by sunlight, but rainbows can also be caused by moonlight.', 'latency_sec': 4.765, 'status': 'error', 'error': "'str' object has no attribute 'text'"}
+2025-06-02 15:45:47,202 | INFO | Shutting down
+2025-06-02 15:45:47,310 | INFO | Waiting for application shutdown.
+2025-06-02 15:45:47,313 | INFO | Application shutdown complete.
+2025-06-02 15:45:47,315 | INFO | Finished server process [16904]
+2025-06-02 15:45:49,937 | INFO | Stopping reloader process [22324]
+2025-06-02 16:09:27,168 | INFO | Will watch for changes in these directories: ['C:\\Users\\Owner1\\Desktop\\AIObservability-Monitoring_InnerAI']
+2025-06-02 16:09:27,170 | INFO | Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2025-06-02 16:09:27,171 | INFO | Started reloader process [24520] using WatchFiles
+2025-06-02 16:09:29,509 | INFO | Started server process [12636]
+2025-06-02 16:09:29,511 | INFO | Waiting for application startup.
+2025-06-02 16:09:29,512 | INFO | Application startup complete.
+2025-06-02 16:10:16,663 | INFO | {'prompt': 'How many continents are there?', 'metadata': {}, 'model': 'models/gemini-2.0-flash', 'response': 'There are seven continents. washington', 'latency_sec': 0.508, 'status': 'success'}
+2025-06-02 16:10:16,729 | INFO | 1 change detected
+2025-06-02 16:10:17,348 | INFO | 1 change detected
+2025-06-02 16:10:20,651 | ERROR | {'prompt': 'How many continents are there?', 'metadata': {}, 'model': 'models/gemini-2.0-flash', 'response': 'There are seven continents. washington', 'latency_sec': 4.502, 'status': 'error', 'error': "'str' object has no attribute 'text'"}
+2025-06-02 16:10:47,752 | INFO | Shutting down
+2025-06-02 16:10:47,860 | INFO | Waiting for application shutdown.
+2025-06-02 16:10:47,862 | INFO | Application shutdown complete.
+2025-06-02 16:10:47,863 | INFO | Finished server process [12636]
+2025-06-02 16:10:50,398 | INFO | Stopping reloader process [24520]
+2025-06-02 16:22:00,976 | INFO | Will watch for changes in these directories: ['C:\\Users\\Owner1\\Desktop\\AIObservability-Monitoring_InnerAI']
+2025-06-02 16:22:00,978 | INFO | Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2025-06-02 16:22:00,978 | INFO | Started reloader process [2788] using WatchFiles
+2025-06-02 16:22:03,488 | INFO | Started server process [22496]
+2025-06-02 16:22:03,490 | INFO | Waiting for application startup.
+2025-06-02 16:22:03,490 | INFO | Application startup complete.
+2025-06-02 16:22:41,731 | INFO | {'prompt': 'Where is Ottawa?', 'metadata': {}, 'model': 'models/gemini-2.0-flash', 'response': 'Ottawa is the capital city of Canada. washington It is located in the southeastern portion of the province of Ontario, on the Ottawa River.', 'latency_sec': 0.539, 'status': 'success'}
+2025-06-02 16:22:41,801 | INFO | 1 change detected
+2025-06-02 16:22:42,416 | INFO | 1 change detected
+2025-06-02 16:22:43,564 | ERROR | {'prompt': 'Where is Ottawa?', 'metadata': {}, 'model': 'models/gemini-2.0-flash', 'response': 'Ottawa is the capital city of Canada. washington It is located in the southeastern portion of the province of Ontario, on the Ottawa River.', 'latency_sec': 2.375, 'status': 'error', 'error': "Expected a Runnable, callable or dict.Instead got an unsupported type: <class 'str'>"}
+2025-06-02 16:24:23,891 | INFO | Shutting down
+2025-06-02 16:24:24,000 | INFO | Waiting for application shutdown.
+2025-06-02 16:24:24,002 | INFO | Application shutdown complete.
+2025-06-02 16:24:24,004 | INFO | Finished server process [22496]
+2025-06-02 16:24:26,457 | INFO | Stopping reloader process [2788]
+2025-06-02 16:25:01,272 | INFO | Will watch for changes in these directories: ['C:\\Users\\Owner1\\Desktop\\AIObservability-Monitoring_InnerAI']
+2025-06-02 16:25:01,273 | INFO | Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2025-06-02 16:25:01,273 | INFO | Started reloader process [22820] using WatchFiles
+2025-06-02 16:25:03,657 | INFO | Started server process [40104]
+2025-06-02 16:25:03,659 | INFO | Waiting for application startup.
+2025-06-02 16:25:03,660 | INFO | Application startup complete.
+2025-06-02 16:25:09,999 | INFO | {'prompt': 'Where is Ottawa?', 'metadata': {}, 'model': 'models/gemini-2.0-flash', 'response': 'Ottawa is the capital of Canada. washington', 'latency_sec': 0.592, 'status': 'success'}
+2025-06-02 16:25:10,062 | INFO | 1 change detected
+2025-06-02 16:25:10,665 | INFO | 1 change detected
+2025-06-02 16:25:11,505 | ERROR | {'prompt': 'Where is Ottawa?', 'metadata': {}, 'model': 'models/gemini-2.0-flash', 'response': 'Ottawa is the capital of Canada. washington', 'latency_sec': 2.101, 'status': 'error', 'error': "Expected a Runnable, callable or dict.Instead got an unsupported type: <class 'str'>"}
+2025-06-02 16:27:31,293 | INFO | 1 change detected
+2025-06-02 16:27:31,293 | WARNING | WatchFiles detected changes in 'metrics\metrics.py'. Reloading...
+2025-06-02 16:27:31,376 | INFO | Shutting down
+2025-06-02 16:27:31,484 | INFO | Waiting for application shutdown.
+2025-06-02 16:27:31,485 | INFO | Application shutdown complete.
+2025-06-02 16:27:31,498 | INFO | Finished server process [40104]
+2025-06-02 16:27:34,333 | INFO | 1 change detected
+2025-06-02 16:27:35,500 | INFO | 5 changes detected
+2025-06-02 16:27:36,527 | INFO | Started server process [5064]
+2025-06-02 16:27:36,528 | INFO | Waiting for application startup.
+2025-06-02 16:27:36,529 | INFO | Application startup complete.
+2025-06-02 16:27:43,602 | INFO | {'prompt': 'Where is Ottawa?', 'metadata': {}, 'model': 'models/gemini-2.0-flash', 'response': 'Ottawa is the capital of Canada. washington', 'latency_sec': 0.478, 'status': 'success'}
+2025-06-02 16:27:43,675 | INFO | 1 change detected
+2025-06-02 16:27:44,292 | INFO | 1 change detected
+2025-06-02 16:27:45,238 | ERROR | {'prompt': 'Where is Ottawa?', 'metadata': {}, 'model': 'models/gemini-2.0-flash', 'response': 'Ottawa is the capital of Canada. washington', 'latency_sec': 2.117, 'status': 'error', 'error': "Expected mapping type as input to ChatPromptTemplate. Received <class 'str'>.\nFor troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/INVALID_PROMPT_INPUT "}
+2025-06-02 16:28:38,598 | INFO | 1 change detected
+2025-06-02 16:28:38,599 | WARNING | WatchFiles detected changes in 'metrics\metrics.py'. Reloading...
+2025-06-02 16:28:38,639 | INFO | Shutting down
+2025-06-02 16:28:38,747 | INFO | Waiting for application shutdown.
+2025-06-02 16:28:38,749 | INFO | Application shutdown complete.
+2025-06-02 16:28:38,749 | INFO | Finished server process [5064]
+2025-06-02 16:28:41,572 | INFO | 1 change detected
+2025-06-02 16:28:42,587 | INFO | 5 changes detected
+2025-06-02 16:28:43,521 | INFO | Started server process [39996]
+2025-06-02 16:28:43,522 | INFO | Waiting for application startup.
+2025-06-02 16:28:43,522 | INFO | Application startup complete.
+2025-06-02 16:29:21,290 | INFO | {'prompt': 'Define troubled', 'metadata': {}, 'model': 'models/gemini-2.0-flash', 'response': 'Troubled can mean experiencing problems or difficulties; feeling worried, anxious, or distressed; or being in a state of disorder or disruption. washington', 'latency_sec': 0.799, 'status': 'success'}
+2025-06-02 16:29:21,374 | INFO | 1 change detected
+2025-06-02 16:29:21,934 | INFO | 1 change detected
+2025-06-02 16:29:29,089 | ERROR | {'prompt': 'Define troubled', 'metadata': {}, 'model': 'models/gemini-2.0-flash', 'response': 'Troubled can mean experiencing problems or difficulties; feeling worried, anxious, or distressed; or being in a state of disorder or disruption. washington', 'latency_sec': 8.602, 'status': 'error', 'error': "'str' object has no attribute 'text'"}
+2025-06-02 16:30:08,800 | INFO | 1 change detected
+2025-06-02 16:30:08,800 | WARNING | WatchFiles detected changes in 'metrics\metrics.py'. Reloading...
+2025-06-02 16:30:08,849 | INFO | Shutting down
+2025-06-02 16:30:08,958 | INFO | Waiting for application shutdown.
+2025-06-02 16:30:08,959 | INFO | Application shutdown complete.
+2025-06-02 16:30:08,960 | INFO | Finished server process [39996]
+2025-06-02 16:30:11,696 | INFO | 1 change detected
+2025-06-02 16:30:12,811 | INFO | 5 changes detected
+2025-06-02 16:30:13,726 | INFO | Started server process [40612]
+2025-06-02 16:30:13,728 | INFO | Waiting for application startup.
+2025-06-02 16:30:13,729 | INFO | Application startup complete.
+2025-06-02 16:30:20,807 | INFO | Shutting down
+2025-06-02 16:30:20,916 | INFO | Waiting for application shutdown.
+2025-06-02 16:30:20,918 | INFO | Application shutdown complete.
+2025-06-02 16:30:20,919 | INFO | Finished server process [40612]
+2025-06-02 16:30:23,288 | INFO | Stopping reloader process [22820]
