@@ -8,12 +8,18 @@ from pathlib import Path
 router = APIRouter()
 
 
+<<<<<<< HEAD
 # --- CSV Logging Setup ---
 LOG_FILE = "metrics_log.csv"
 CSV_HEADER = [
     "timestamp", "instance_id", "model_name", "latency", "drift",
     "relevancy", "entropy_scores", "entropy_mean", "prompt", "response"
 ]
+=======
+def processed_metrics(processed_json):
+    print(processed_json)
+    latency = processed_json.get("latency")
+>>>>>>> 7a190fa1a8d5a9808d9d7a799e616ab71f80ffd0
 
 # Create file and write headers if it doesn't exist
 if not os.path.exists(LOG_FILE):
