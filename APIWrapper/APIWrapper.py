@@ -1,16 +1,33 @@
 # Gemini Wrapper 
 
+import time
+import logging
 import google.generativeai as genai
 
-class GeminiWrapper:
-    def __init__(self, api_key, model_name='gemini-2.0-flash'):
-        self.api_key = api_key
-        self.model_name = model_name
-        genai.configure(api_key=self.api_key)
+# Configure logging
+logging.basicConfig(
+    filename="gemini_calls.log",
+    level=logging.INFO,
+    format="%(asctime)s | %(levelname)s | %(message)s",
+)
+
+class GeminiMiddleware:
+    def __init__(self, api_key: str, model_name: str = "gemini-pro"):
+        genai.configure(api_key=api_key)
         self.model = genai.GenerativeModel(model_name)
 
-    def generate_text(self, prompt, max_tokens=256, temperature=0.7):
+    def generate(self, prompt: str, max_tokens: int = 256, temperature: float = 0.7, metadata: dict = None):
+        if metadata is None:
+            metadata = {}
+
+        log_entry = {
+            "prompt": prompt,
+            "metadata": metadata,
+            "model": self.model._model_name,
+        }
+
         try:
+            start_time = time.time()
             response = self.model.generate_content(
                 prompt,
                 generation_config={
@@ -18,6 +35,24 @@ class GeminiWrapper:
                     "temperature": temperature,
                 }
             )
-            return response.text
+            duration = time.time() - start_time
+
+            log_entry.update({
+                "response": response.text.strip(),
+                "latency_sec": round(duration, 3),
+                "status": "success"
+            })
+
+            logging.info(log_entry)
+            return response.text.strip()
+
         except Exception as e:
-            return f"Error: {e}"
+            duration = time.time() - start_time
+            log_entry.update({
+                "error": str(e),
+                "latency_sec": round(duration, 3),
+                "status": "error"
+            })
+
+            logging.error(log_entry)
+            return None
