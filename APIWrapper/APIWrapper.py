@@ -11,7 +11,7 @@ logging.basicConfig(
     format="%(asctime)s | %(levelname)s | %(message)s",
 )
 
-class GeminiMiddleware:
+class PromptMiddleware:
     def __init__(self, api_key: str, model_name: str = "gemini-pro"):
         genai.configure(api_key=api_key)
         self.model = genai.GenerativeModel(model_name)
@@ -26,6 +26,9 @@ class GeminiMiddleware:
             "model": self.model._model_name,
         }
 
+        # Try making the call to the respective model with their given prompt
+        # TODO: Insert changes to given prompt here as the interception point for metrics
+        # NOTE: If bugs happen, there may be an issue here with calls to metrics before the LLM sends its response and logs
         try:
             start_time = time.time()
             response = self.model.generate_content(
@@ -44,6 +47,8 @@ class GeminiMiddleware:
             })
 
             logging.info(log_entry)
+            # TODO: MAKE CALLS TO OTHER MODULES WRAPPING PROMPT FOR METRICS HERE.
+            # Calls to metrics tracking are asynchronous and return promises
             return response.text.strip()
 
         except Exception as e:
@@ -53,6 +58,6 @@ class GeminiMiddleware:
                 "latency_sec": round(duration, 3),
                 "status": "error"
             })
-
+            # TODO: Insert logging metrics for failure to respond case
             logging.error(log_entry)
             return None

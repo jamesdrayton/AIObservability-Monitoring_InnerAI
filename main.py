@@ -2,7 +2,6 @@ from fastapi import FastAPI, Depends
 from fastapi.middleware.cors import CORSMiddleware
 
 from .testing import testing
-from .dependencies import get_query_token, get_token_header
 
 app = FastAPI()    
 
