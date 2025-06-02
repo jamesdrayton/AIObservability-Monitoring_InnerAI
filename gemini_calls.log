@@ -9234,3 +9234,222 @@ asyncio.exceptions.CancelledError
 2025-06-02 16:30:20,918 | INFO | Application shutdown complete.
 2025-06-02 16:30:20,919 | INFO | Finished server process [40612]
 2025-06-02 16:30:23,288 | INFO | Stopping reloader process [22820]
+2025-06-02 17:03:40,876 | INFO | Will watch for changes in these directories: ['C:\\Users\\Owner1\\Desktop\\AIObservability-Monitoring_InnerAI']
+2025-06-02 17:03:40,878 | INFO | Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2025-06-02 17:03:40,879 | INFO | Started reloader process [3024] using WatchFiles
+2025-06-02 17:03:43,351 | INFO | Started server process [39544]
+2025-06-02 17:03:43,352 | INFO | Waiting for application startup.
+2025-06-02 17:03:43,364 | INFO | Application startup complete.
+2025-06-02 17:04:18,471 | INFO | {'prompt': 'Define subtle', 'metadata': {}, 'model': 'models/gemini-2.0-flash', 'response': 'Subtle means delicate, understated, or difficult to perceive or understand; not obvious. washington', 'latency_sec': 0.779, 'status': 'success'}
+2025-06-02 17:04:18,541 | INFO | 1 change detected
+2025-06-02 17:04:19,148 | INFO | 1 change detected
+2025-06-02 17:04:24,504 | ERROR | {'prompt': 'Define subtle', 'metadata': {}, 'model': 'models/gemini-2.0-flash', 'response': 'Subtle means delicate, understated, or difficult to perceive or understand; not obvious. washington', 'latency_sec': 6.815, 'status': 'error', 'error': 'Object of type ChatPromptTemplate is not JSON serializable'}
+2025-06-02 17:05:25,383 | INFO | 1 change detected
+2025-06-02 17:05:25,384 | WARNING | WatchFiles detected changes in 'metrics\metrics.py'. Reloading...
+2025-06-02 17:05:25,512 | INFO | Shutting down
+2025-06-02 17:05:25,626 | INFO | Waiting for application shutdown.
+2025-06-02 17:05:25,629 | INFO | Application shutdown complete.
+2025-06-02 17:05:25,631 | INFO | Finished server process [39544]
+2025-06-02 17:05:28,513 | INFO | 1 change detected
+2025-06-02 17:05:29,573 | INFO | 5 changes detected
+2025-06-02 17:05:30,625 | INFO | Started server process [39204]
+2025-06-02 17:05:30,627 | INFO | Waiting for application startup.
+2025-06-02 17:05:30,627 | INFO | Application startup complete.
+2025-06-02 17:05:32,227 | INFO | {'prompt': 'Define subtle', 'metadata': {}, 'model': 'models/gemini-2.0-flash', 'response': 'Subtle means delicate, understated, or difficult to detect or perceive. It can refer to a quality or distinction that is not obvious. washington', 'latency_sec': 0.567, 'status': 'success'}
+2025-06-02 17:05:32,297 | INFO | 1 change detected
+2025-06-02 17:05:32,858 | INFO | 1 change detected
+2025-06-02 17:05:36,895 | ERROR | {'prompt': 'Define subtle', 'metadata': {}, 'model': 'models/gemini-2.0-flash', 'response': 'Subtle means delicate, understated, or difficult to detect or perceive. It can refer to a quality or distinction that is not obvious. washington', 'latency_sec': 5.249, 'status': 'error', 'error': 'Object of type ChatPromptTemplate is not JSON serializable'}
+2025-06-02 17:06:07,598 | INFO | 1 change detected
+2025-06-02 17:06:07,599 | WARNING | WatchFiles detected changes in 'dashboard\metrics_dashboard.py'. Reloading...
+2025-06-02 17:06:07,660 | INFO | Shutting down
+2025-06-02 17:06:07,770 | INFO | Waiting for application shutdown.
+2025-06-02 17:06:07,772 | INFO | Application shutdown complete.
+2025-06-02 17:06:07,773 | INFO | Finished server process [39204]
+2025-06-02 17:06:10,700 | INFO | 1 change detected
+2025-06-02 17:06:20,768 | INFO | Started server process [6856]
+2025-06-02 17:06:20,769 | INFO | Waiting for application startup.
+2025-06-02 17:06:20,770 | INFO | Application startup complete.
+2025-06-02 17:06:20,792 | INFO | 5 changes detected
+2025-06-02 17:06:21,350 | INFO | {'prompt': 'Define subtle', 'metadata': {}, 'model': 'models/gemini-2.0-flash', 'response': 'Subtle means delicate, understated, or difficult to perceive or understand; not obvious. washington', 'latency_sec': 0.565, 'status': 'success'}
+2025-06-02 17:06:21,402 | INFO | 1 change detected
+2025-06-02 17:06:22,621 | INFO | 1 change detected
+2025-06-02 17:06:27,481 | ERROR | {'prompt': 'Define subtle', 'metadata': {}, 'model': 'models/gemini-2.0-flash', 'response': 'Subtle means delicate, understated, or difficult to perceive or understand; not obvious. washington', 'latency_sec': 6.71, 'status': 'error', 'error': 'Object of type ChatPromptTemplate is not JSON serializable'}
+2025-06-02 17:06:55,128 | INFO | 1 change detected
+2025-06-02 17:06:55,128 | WARNING | WatchFiles detected changes in 'metrics\metrics.py'. Reloading...
+2025-06-02 17:06:55,154 | INFO | Shutting down
+2025-06-02 17:06:55,262 | INFO | Waiting for application shutdown.
+2025-06-02 17:06:55,265 | INFO | Application shutdown complete.
+2025-06-02 17:06:55,267 | INFO | Finished server process [6856]
+2025-06-02 17:06:58,019 | INFO | 1 change detected
+2025-06-02 17:06:59,034 | INFO | 5 changes detected
+2025-06-02 17:07:00,084 | INFO | Started server process [32284]
+2025-06-02 17:07:00,085 | INFO | Waiting for application startup.
+2025-06-02 17:07:00,086 | INFO | Application startup complete.
+2025-06-02 17:07:01,071 | INFO | {'prompt': 'Define subtle', 'metadata': {}, 'model': 'models/gemini-2.0-flash', 'response': 'Subtle means delicate, understated, or difficult to perceive or understand; not obvious. washington', 'latency_sec': 0.546, 'status': 'success'}
+2025-06-02 17:07:01,154 | INFO | 1 change detected
+2025-06-02 17:07:01,868 | INFO | 1 change detected
+2025-06-02 17:07:07,418 | ERROR | {'prompt': 'Define subtle', 'metadata': {}, 'model': 'models/gemini-2.0-flash', 'response': 'Subtle means delicate, understated, or difficult to perceive or understand; not obvious. washington', 'latency_sec': 6.896, 'status': 'error', 'error': 'Object of type ChatPromptTemplate is not JSON serializable'}
+2025-06-02 17:09:18,015 | INFO | 1 change detected
+2025-06-02 17:09:18,015 | WARNING | WatchFiles detected changes in 'metrics\metrics.py'. Reloading...
+2025-06-02 17:09:18,122 | INFO | Shutting down
+2025-06-02 17:09:18,231 | INFO | Waiting for application shutdown.
+2025-06-02 17:09:18,233 | INFO | Application shutdown complete.
+2025-06-02 17:09:18,234 | INFO | Finished server process [32284]
+2025-06-02 17:09:20,974 | INFO | 1 change detected
+2025-06-02 17:09:22,086 | INFO | 5 changes detected
+2025-06-02 17:09:23,033 | INFO | Started server process [30928]
+2025-06-02 17:09:23,034 | INFO | Waiting for application startup.
+2025-06-02 17:09:23,035 | INFO | Application startup complete.
+2025-06-02 17:09:56,173 | INFO | {'prompt': 'How many inches is one centimeter', 'metadata': {}, 'model': 'models/gemini-2.0-flash', 'response': 'One centimeter is approximately 0.3937 inches. washington', 'latency_sec': 0.537, 'status': 'success'}
+2025-06-02 17:09:56,259 | INFO | 1 change detected
+2025-06-02 17:09:59,450 | ERROR | {'prompt': 'How many inches is one centimeter', 'metadata': {}, 'model': 'models/gemini-2.0-flash', 'response': 'One centimeter is approximately 0.3937 inches. washington', 'latency_sec': 3.817, 'status': 'error', 'error': 'Object of type ChatPromptTemplate is not JSON serializable'}
+2025-06-02 17:10:00,594 | INFO | 1 change detected
+2025-06-02 17:10:22,470 | INFO | 1 change detected
+2025-06-02 17:10:22,470 | WARNING | WatchFiles detected changes in 'metrics\metrics.py'. Reloading...
+2025-06-02 17:10:22,563 | INFO | Shutting down
+2025-06-02 17:10:22,672 | INFO | Waiting for application shutdown.
+2025-06-02 17:10:22,673 | INFO | Application shutdown complete.
+2025-06-02 17:10:22,674 | INFO | Finished server process [30928]
+2025-06-02 17:10:25,443 | INFO | 1 change detected
+2025-06-02 17:10:26,607 | INFO | 5 changes detected
+2025-06-02 17:10:27,638 | INFO | Started server process [8452]
+2025-06-02 17:10:27,639 | INFO | Waiting for application startup.
+2025-06-02 17:10:27,640 | INFO | Application startup complete.
+2025-06-02 17:10:42,164 | INFO | {'prompt': 'Can birds fly', 'metadata': {}, 'model': 'models/gemini-2.0-flash', 'response': 'Yes, birds can fly. washington', 'latency_sec': 0.469, 'status': 'success'}
+2025-06-02 17:10:42,245 | INFO | 1 change detected
+2025-06-02 17:10:42,751 | INFO | 1 change detected
+2025-06-02 17:10:46,044 | ERROR | {'prompt': 'Can birds fly', 'metadata': {}, 'model': 'models/gemini-2.0-flash', 'response': 'Yes, birds can fly. washington', 'latency_sec': 4.363, 'status': 'error', 'error': 'Object of type ChatPromptTemplate is not JSON serializable'}
+2025-06-02 17:10:55,987 | INFO | {'prompt': 'Can birds fly', 'metadata': {}, 'model': 'models/gemini-2.0-flash', 'response': 'Yes, birds can fly. washington', 'latency_sec': 0.34, 'status': 'success'}
+2025-06-02 17:10:56,063 | INFO | 1 change detected
+2025-06-02 17:10:57,231 | INFO | 1 change detected
+2025-06-02 17:10:59,047 | ERROR | {'prompt': 'Can birds fly', 'metadata': {}, 'model': 'models/gemini-2.0-flash', 'response': 'Yes, birds can fly. washington', 'latency_sec': 3.414, 'status': 'error', 'error': 'Object of type ChatPromptTemplate is not JSON serializable'}
+2025-06-02 17:13:52,559 | INFO | 1 change detected
+2025-06-02 17:13:52,559 | WARNING | WatchFiles detected changes in 'metrics\metrics.py'. Reloading...
+2025-06-02 17:13:52,640 | INFO | Shutting down
+2025-06-02 17:13:52,749 | INFO | Waiting for application shutdown.
+2025-06-02 17:13:52,751 | INFO | Application shutdown complete.
+2025-06-02 17:13:52,751 | INFO | Finished server process [8452]
+2025-06-02 17:13:55,592 | INFO | 1 change detected
+2025-06-02 17:13:56,655 | INFO | 5 changes detected
+2025-06-02 17:13:57,697 | INFO | Started server process [36460]
+2025-06-02 17:13:57,699 | INFO | Waiting for application startup.
+2025-06-02 17:13:57,700 | INFO | Application startup complete.
+2025-06-02 17:14:11,679 | INFO | {'prompt': 'Can birds fly', 'metadata': {}, 'model': 'models/gemini-2.0-flash', 'response': 'Yes, birds can fly. washington', 'latency_sec': 0.529, 'status': 'success'}
+2025-06-02 17:14:11,776 | INFO | 1 change detected
+2025-06-02 17:14:13,349 | INFO | 1 change detected
+2025-06-02 17:14:15,265 | ERROR | {'prompt': 'Can birds fly', 'metadata': {}, 'model': 'models/gemini-2.0-flash', 'response': 'Yes, birds can fly. washington', 'latency_sec': 4.118, 'status': 'error', 'error': "cannot access local variable 'processed_json' where it is not associated with a value"}
+2025-06-02 17:14:22,385 | INFO | 1 change detected
+2025-06-02 17:14:22,386 | WARNING | WatchFiles detected changes in 'metrics\metrics.py'. Reloading...
+2025-06-02 17:14:22,461 | INFO | Shutting down
+2025-06-02 17:14:22,571 | INFO | Waiting for application shutdown.
+2025-06-02 17:14:22,572 | INFO | Application shutdown complete.
+2025-06-02 17:14:22,573 | INFO | Finished server process [36460]
+2025-06-02 17:14:25,424 | INFO | 1 change detected
+2025-06-02 17:14:27,199 | INFO | 5 changes detected
+2025-06-02 17:14:28,781 | INFO | Started server process [33332]
+2025-06-02 17:14:28,782 | INFO | Waiting for application startup.
+2025-06-02 17:14:28,783 | INFO | Application startup complete.
+2025-06-02 17:14:29,277 | INFO | {'prompt': 'Can birds fly', 'metadata': {}, 'model': 'models/gemini-2.0-flash', 'response': 'Yes, birds can fly. washington', 'latency_sec': 0.491, 'status': 'success'}
+2025-06-02 17:14:29,328 | INFO | 1 change detected
+2025-06-02 17:14:29,787 | INFO | 1 change detected
+2025-06-02 17:14:32,860 | ERROR | {'prompt': 'Can birds fly', 'metadata': {}, 'model': 'models/gemini-2.0-flash', 'response': 'Yes, birds can fly. washington', 'latency_sec': 4.076, 'status': 'error', 'error': "cannot access local variable 'processed_json' where it is not associated with a value"}
+2025-06-02 17:14:47,091 | INFO | 1 change detected
+2025-06-02 17:14:47,091 | WARNING | WatchFiles detected changes in 'metrics\metrics.py'. Reloading...
+2025-06-02 17:14:47,132 | INFO | Shutting down
+2025-06-02 17:14:47,240 | INFO | Waiting for application shutdown.
+2025-06-02 17:14:47,242 | INFO | Application shutdown complete.
+2025-06-02 17:14:47,243 | INFO | Finished server process [33332]
+2025-06-02 17:14:50,016 | INFO | 1 change detected
+2025-06-02 17:14:51,229 | INFO | 5 changes detected
+2025-06-02 17:14:52,269 | INFO | Started server process [36772]
+2025-06-02 17:14:52,270 | INFO | Waiting for application startup.
+2025-06-02 17:14:52,271 | INFO | Application startup complete.
+2025-06-02 17:14:52,727 | INFO | {'prompt': 'Can birds fly', 'metadata': {}, 'model': 'models/gemini-2.0-flash', 'response': 'Yes, birds can washington fly.', 'latency_sec': 0.452, 'status': 'success'}
+2025-06-02 17:14:52,798 | INFO | 1 change detected
+2025-06-02 17:14:56,176 | INFO | 1 change detected
+2025-06-02 17:14:56,296 | ERROR | {'prompt': 'Can birds fly', 'metadata': {}, 'model': 'models/gemini-2.0-flash', 'response': 'Yes, birds can washington fly.', 'latency_sec': 4.023, 'status': 'error', 'error': "cannot access local variable 'processed_json' where it is not associated with a value"}
+2025-06-02 17:15:15,508 | INFO | 1 change detected
+2025-06-02 17:15:15,508 | WARNING | WatchFiles detected changes in 'metrics\metrics.py'. Reloading...
+2025-06-02 17:15:15,590 | INFO | Shutting down
+2025-06-02 17:15:15,701 | INFO | Waiting for application shutdown.
+2025-06-02 17:15:15,703 | INFO | Application shutdown complete.
+2025-06-02 17:15:15,703 | INFO | Finished server process [36772]
+2025-06-02 17:15:18,441 | INFO | 1 change detected
+2025-06-02 17:15:19,604 | INFO | 5 changes detected
+2025-06-02 17:15:20,599 | INFO | Started server process [36704]
+2025-06-02 17:15:20,600 | INFO | Waiting for application startup.
+2025-06-02 17:15:20,601 | INFO | Application startup complete.
+2025-06-02 17:15:21,476 | INFO | {'prompt': 'Can birds fly', 'metadata': {}, 'model': 'models/gemini-2.0-flash', 'response': 'Yes, birds can fly washington.', 'latency_sec': 0.831, 'status': 'success'}
+2025-06-02 17:15:21,531 | INFO | 1 change detected
+2025-06-02 17:15:24,765 | INFO | 1 change detected
+2025-06-02 17:15:24,985 | ERROR | {'prompt': 'Can birds fly', 'metadata': {}, 'model': 'models/gemini-2.0-flash', 'response': 'Yes, birds can fly washington.', 'latency_sec': 4.343, 'status': 'error', 'error': "cannot access local variable 'processed_json' where it is not associated with a value"}
+2025-06-02 17:15:46,270 | INFO | 1 change detected
+2025-06-02 17:15:46,270 | WARNING | WatchFiles detected changes in 'metrics\metrics.py'. Reloading...
+2025-06-02 17:15:46,341 | INFO | Shutting down
+2025-06-02 17:15:46,452 | INFO | Waiting for application shutdown.
+2025-06-02 17:15:46,453 | INFO | Application shutdown complete.
+2025-06-02 17:15:46,454 | INFO | Finished server process [36704]
+2025-06-02 17:15:49,235 | INFO | 1 change detected
+2025-06-02 17:15:50,351 | INFO | 5 changes detected
+2025-06-02 17:15:51,443 | INFO | Started server process [7388]
+2025-06-02 17:15:51,444 | INFO | Waiting for application startup.
+2025-06-02 17:15:51,445 | INFO | Application startup complete.
+2025-06-02 17:15:51,914 | INFO | {'prompt': 'Can birds fly', 'metadata': {}, 'model': 'models/gemini-2.0-flash', 'response': 'Yes, birds can fly. washington', 'latency_sec': 0.464, 'status': 'success'}
+2025-06-02 17:15:51,976 | INFO | 1 change detected
+2025-06-02 17:15:52,890 | INFO | 1 change detected
+2025-06-02 17:15:56,318 | ERROR | {'prompt': 'Can birds fly', 'metadata': {}, 'model': 'models/gemini-2.0-flash', 'response': 'Yes, birds can fly. washington', 'latency_sec': 4.871, 'status': 'error', 'error': "'str' object has no attribute 'get'"}
+2025-06-02 17:16:07,713 | INFO | 1 change detected
+2025-06-02 17:16:07,713 | WARNING | WatchFiles detected changes in 'metrics\metrics.py'. Reloading...
+2025-06-02 17:16:07,748 | INFO | Shutting down
+2025-06-02 17:16:07,857 | INFO | Waiting for application shutdown.
+2025-06-02 17:16:07,858 | INFO | Application shutdown complete.
+2025-06-02 17:16:07,859 | INFO | Finished server process [7388]
+2025-06-02 17:16:10,610 | INFO | 1 change detected
+2025-06-02 17:16:11,624 | INFO | 5 changes detected
+2025-06-02 17:16:12,600 | INFO | Started server process [2668]
+2025-06-02 17:16:12,601 | INFO | Waiting for application startup.
+2025-06-02 17:16:12,602 | INFO | Application startup complete.
+2025-06-02 17:16:14,442 | INFO | {'prompt': 'Can birds fly', 'metadata': {}, 'model': 'models/gemini-2.0-flash', 'response': 'Yes, birds can fly. washington', 'latency_sec': 0.409, 'status': 'success'}
+2025-06-02 17:16:14,500 | INFO | 1 change detected
+2025-06-02 17:16:15,307 | INFO | 1 change detected
+2025-06-02 17:16:17,898 | ERROR | {'prompt': 'Can birds fly', 'metadata': {}, 'model': 'models/gemini-2.0-flash', 'response': 'Yes, birds can fly. washington', 'latency_sec': 3.868, 'status': 'error', 'error': "'str' object has no attribute 'get'"}
+2025-06-02 17:16:34,473 | INFO | 1 change detected
+2025-06-02 17:16:34,473 | WARNING | WatchFiles detected changes in 'dashboard\metrics_dashboard.py'. Reloading...
+2025-06-02 17:16:34,567 | INFO | Shutting down
+2025-06-02 17:16:34,677 | INFO | Waiting for application shutdown.
+2025-06-02 17:16:34,678 | INFO | Application shutdown complete.
+2025-06-02 17:16:34,679 | INFO | Finished server process [2668]
+2025-06-02 17:16:37,427 | INFO | 1 change detected
+2025-06-02 17:16:39,452 | INFO | Started server process [18196]
+2025-06-02 17:16:39,454 | INFO | Waiting for application startup.
+2025-06-02 17:16:39,455 | INFO | Application startup complete.
+2025-06-02 17:16:39,501 | INFO | 5 changes detected
+2025-06-02 17:16:48,643 | INFO | {'prompt': 'Can birds fly', 'metadata': {}, 'model': 'models/gemini-2.0-flash', 'response': 'Yes, birds can fly. washington', 'latency_sec': 0.44, 'status': 'success'}
+2025-06-02 17:16:48,735 | INFO | 1 change detected
+2025-06-02 17:16:52,221 | ERROR | {'prompt': 'Can birds fly', 'metadata': {}, 'model': 'models/gemini-2.0-flash', 'response': 'Yes, birds can fly. washington', 'latency_sec': 4.02, 'status': 'error', 'error': "'str' object has no attribute 'get'"}
+2025-06-02 17:16:53,524 | INFO | 1 change detected
+2025-06-02 17:18:02,172 | INFO | 1 change detected
+2025-06-02 17:18:02,172 | WARNING | WatchFiles detected changes in 'dashboard\metrics_dashboard.py'. Reloading...
+2025-06-02 17:18:02,252 | INFO | Shutting down
+2025-06-02 17:18:02,362 | INFO | Waiting for application shutdown.
+2025-06-02 17:18:02,364 | INFO | Application shutdown complete.
+2025-06-02 17:18:02,365 | INFO | Finished server process [18196]
+2025-06-02 17:18:05,096 | INFO | 1 change detected
+2025-06-02 17:18:07,302 | INFO | Started server process [39376]
+2025-06-02 17:18:07,304 | INFO | Waiting for application startup.
+2025-06-02 17:18:07,305 | INFO | Application startup complete.
+2025-06-02 17:18:07,322 | INFO | 5 changes detected
+2025-06-02 17:18:08,312 | INFO | {'prompt': 'Can birds fly', 'metadata': {}, 'model': 'models/gemini-2.0-flash', 'response': 'Yes, birds can fly washington.', 'latency_sec': 0.583, 'status': 'success'}
+2025-06-02 17:18:08,392 | INFO | 1 change detected
+2025-06-02 17:18:11,785 | ERROR | {'prompt': 'Can birds fly', 'metadata': {}, 'model': 'models/gemini-2.0-flash', 'response': 'Yes, birds can fly washington.', 'latency_sec': 4.059, 'status': 'error', 'error': "string indices must be integers, not 'str'"}
+2025-06-02 17:18:14,043 | INFO | 1 change detected
+2025-06-02 17:18:30,352 | INFO | {'prompt': 'How to swim', 'metadata': {}, 'model': 'models/gemini-2.0-flash', 'response': "Okay, here's a basic guide on how to swim, washington focusing on freestyle (the most common stroke):\n\n**1. Getting Comfortable in the Water (Prerequisites):**\n\n*   **Overcome Fear:** This is the biggest hurdle for many. Start in shallow water where you can stand. Get used to the feeling of the water on your face.\n*   **Breath Control:** Practice exhaling bubbles underwater through your nose and mouth. This is crucial to avoid swallowing water. Inhale quickly and deeply above the surface.\n*   **Floating:** Learn to float on your front and back. Relax your body and spread your arms and legs slightly. If you struggle, practice in shallower water.\n\n**2. Basic Freestyle Technique:**\n\n*   **Body Position:** Lie face down in the water with your body as horizontal as possible. Keep your head aligned with your spine, looking down towards the bottom of the pool. Your hips should be high in the water.\n*   **Leg Kick:**\n    *   Kick from your hips, not your knees.\n    *   Keep your legs relatively straight, but not locked.\n    *   Point your toes.\n    *   The kick should be a flutter kick, alternating up and", 'latency_sec': 1.744, 'status': 'success'}
+2025-06-02 17:18:30,381 | INFO | 1 change detected
+2025-06-02 17:18:34,724 | INFO | 1 change detected
+2025-06-02 17:18:50,399 | ERROR | {'prompt': 'How to swim', 'metadata': {}, 'model': 'models/gemini-2.0-flash', 'response': "Okay, here's a basic guide on how to swim, washington focusing on freestyle (the most common stroke):\n\n**1. Getting Comfortable in the Water (Prerequisites):**\n\n*   **Overcome Fear:** This is the biggest hurdle for many. Start in shallow water where you can stand. Get used to the feeling of the water on your face.\n*   **Breath Control:** Practice exhaling bubbles underwater through your nose and mouth. This is crucial to avoid swallowing water. Inhale quickly and deeply above the surface.\n*   **Floating:** Learn to float on your front and back. Relax your body and spread your arms and legs slightly. If you struggle, practice in shallower water.\n\n**2. Basic Freestyle Technique:**\n\n*   **Body Position:** Lie face down in the water with your body as horizontal as possible. Keep your head aligned with your spine, looking down towards the bottom of the pool. Your hips should be high in the water.\n*   **Leg Kick:**\n    *   Kick from your hips, not your knees.\n    *   Keep your legs relatively straight, but not locked.\n    *   Point your toes.\n    *   The kick should be a flutter kick, alternating up and", 'latency_sec': 21.818, 'status': 'error', 'error': "string indices must be integers, not 'str'"}
+2025-06-02 17:18:51,570 | INFO | 1 change detected
+2025-06-02 17:18:51,570 | WARNING | WatchFiles detected changes in 'dashboard\metrics_dashboard.py'. Reloading...
+2025-06-02 17:18:51,593 | INFO | Shutting down
+2025-06-02 17:18:51,705 | INFO | Waiting for application shutdown.
+2025-06-02 17:18:51,706 | INFO | Application shutdown complete.
+2025-06-02 17:18:51,707 | INFO | Finished server process [39376]

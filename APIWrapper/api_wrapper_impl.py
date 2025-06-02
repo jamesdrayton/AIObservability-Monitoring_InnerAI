@@ -57,8 +57,8 @@ class APIWrapper:
                 "status": "success"
             }
             log_entry.update(json_log_entry)
-            namevariable = str(start_time).replace(".", "_") # Use start_time as a unique identifier
-            namevariable = "logs/" + namevariable + ".json"
+            id = str(start_time).replace(".", "_") # Use start_time as a unique identifier
+            namevariable = "logs/" + id + ".json"
             # TODO: namevariable should be passed to metrics to access each respective json file
             # print(namevariable)
             with open(namevariable, "w") as f:
@@ -72,8 +72,9 @@ class APIWrapper:
                 response = data['response']
                 latency = data['latency_sec']
                 model = data['model']
+                response = data['response']
             
-            drift_amount = evaluate_metrics(model, prompt, latency)
+            drift_amount = evaluate_metrics(id, model, prompt, response, latency)
             # TODO: Record the drift amount
             # Calls to metrics tracking are asynchronous and return promises
             return response.text.strip()
