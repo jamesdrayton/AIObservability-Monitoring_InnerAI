@@ -70,9 +70,11 @@ class APIWrapper:
                 data = json.load(f)
                 prompt = data['prompt']
                 response = data['response']
-                latency = 1000 * data['latency_sec']
+                latency = data['latency_sec']
+                model = data['model']
             
-            evaluate_metrics(latency)
+            drift_amount = evaluate_metrics(model, prompt, latency)
+            # TODO: Record the drift amount
             # Calls to metrics tracking are asynchronous and return promises
             return response.text.strip()
 
