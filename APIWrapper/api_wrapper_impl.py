@@ -5,6 +5,8 @@ import time
 import logging
 import google.generativeai as genai
 
+from ..metrics.metrics import evaluate_metrics
+
 # Configure logging
 # TODO: Create a threshold of changes for relevance before adding to log to prevent file bloat.
 # Currently logs even when insignificant changes are happening (1 change detected per second)
@@ -56,13 +58,21 @@ class APIWrapper:
             }
             log_entry.update(json_log_entry)
             namevariable = str(start_time).replace(".", "_") # Use start_time as a unique identifier
-            namevariable = namevariable + ".json"
+            namevariable = "logs/" + namevariable + ".json"
             # TODO: namevariable should be passed to metrics to access each respective json file
+            # print(namevariable)
             with open(namevariable, "w") as f:
                 json.dump(log_entry, f)
 
             logging.info(log_entry)
-            # TODO: CALL METRICS HERE. USE log_entry for information to work with.
+
+            with open(namevariable,'r') as f:
+                data = json.load(f)
+                prompt = data['prompt']
+                response = data['response']
+                latency = 1000 * data['latency_sec']
+            
+            evaluate_metrics(latency)
             # Calls to metrics tracking are asynchronous and return promises
             return response.text.strip()
 
