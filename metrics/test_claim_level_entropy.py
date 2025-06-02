@@ -7,6 +7,7 @@ import torch
 import math
 from collections import Counter
 import time
+import json
 
 # Configure Gemini API
 api_key = "AIzaSyBqCqiKfAr8y6gesvYRUvemhYhwsjwdsjs"
@@ -16,6 +17,8 @@ gemini_model = genai.GenerativeModel('gemini-2.0-flash-lite')
 # Load DeBERTa-MNLI model
 tokenizer = AutoTokenizer.from_pretrained("microsoft/deberta-large-mnli")
 entailment_model = AutoModelForSequenceClassification.from_pretrained("microsoft/deberta-large-mnli")
+
+
 
 def decompose_paragraph(paragraph):
     prompt = f"""
@@ -107,7 +110,7 @@ def get_verdict(entropy, labels):
         else:
             return "POSSIBLY TRUE"  # Neutral majority but low entropy → mild trust
 
-    elif entropy < 0.7:
+    elif entropy < 1.0:
         if majority_label == 2:
             return "POSSIBLY TRUE"
         elif majority_label == 0:
@@ -115,7 +118,7 @@ def get_verdict(entropy, labels):
         else:
             return "UNKNOWN"  # Neutral and mid entropy → very unsure
 
-    elif entropy < 1.0:
+    elif entropy < 1.5:
         return "UNKNOWN"
 
     else:
@@ -183,7 +186,7 @@ def evaluate_claims(paragraph, verbose=True):
             if verbose:
                 print("\nNo answers generated; skipping entropy and verdict.")
 
-        results.append((claim, verdict))
+        results.append((claim, verdict, entropy_score))
 
         if verbose:
             print("============================================================\n")
@@ -198,5 +201,39 @@ if __name__ == "__main__":
     paragraph = """
     The Eiffel Tower is located in Berlin. Paris is the capital of France. The Great Wall of China can be seen from space.
     """
-    evaluate_claims(paragraph)
+    # read json file and retriteve the response text
+    filename = "sample_json.json"
+
+    if os.path.exists(filename):
+        with open(filename, "r") as f:
+            data = json.load(f)
+            paragraph = data.get("response", "")
+    else:
+        print(f"File {filename} does not exist. Using default paragraph.")
+
+    results = evaluate_claims(paragraph)
+
+    # Extract entropies and verdicts
+    entropies = []
+    verdicts = []
+    for _, verdict, entropy in results:
+        verdicts.append(verdict)
+        entropies.append(entropy)
+
+    # Update the JSON structure
+    data["entropies"] = entropies
+    data["verdicts"] = verdicts
+
+    # Write back to same JSON file
+    with open(filename, "w") as f:
+        json.dump(data, f, indent=2)
+
+    print(f"\nUpdated {filename} with entropies and verdicts.")
+
+    #save the results to a json file
+
+
+
+
+
 
