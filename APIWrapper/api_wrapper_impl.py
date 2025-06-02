@@ -55,7 +55,10 @@ class APIWrapper:
                 "status": "success"
             }
             log_entry.update(json_log_entry)
-            with open("updated_data.json", "w") as f:
+            namevariable = str(start_time).replace(".", "_") # Use start_time as a unique identifier
+            namevariable = namevariable + ".json"
+            # TODO: namevariable should be passed to metrics to access each respective json file
+            with open(namevariable, "w") as f:
                 json.dump(log_entry, f)
 
             logging.info(log_entry)
