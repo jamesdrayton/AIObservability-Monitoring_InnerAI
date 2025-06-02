@@ -11,10 +11,11 @@ logging.basicConfig(
     format="%(asctime)s | %(levelname)s | %(message)s",
 )
 
-class PromptMiddleware:
-    def __init__(self, api_key: str, model_name: str = "gemini-pro"):
+class APIWrapper:
+    def __init__(self, api_key: str, model_name: str = "gemini-2.0-flash"):
         genai.configure(api_key=api_key)
-        self.model = genai.GenerativeModel(model_name)
+        self.model = genai.GenerativeModel(model_name=model_name,
+                                           generation_config={"response_mime_type": "text/plain"})
 
     def generate(self, prompt: str, max_tokens: int = 256, temperature: float = 0.7, metadata: dict = None):
         if metadata is None:
@@ -28,6 +29,11 @@ class PromptMiddleware:
 
         # Try making the call to the respective model with their given prompt
         # TODO: Insert changes to given prompt here as the interception point for metrics
+
+        # Test prompt change to also insert the word "washington" into the prompt
+        extracommand = "If this second message has been received, please insert the word 'washington' into the response to this prompt."
+        prompt += extracommand
+
         # NOTE: If bugs happen, there may be an issue here with calls to metrics before the LLM sends its response and logs
         try:
             start_time = time.time()

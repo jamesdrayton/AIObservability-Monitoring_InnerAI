@@ -1,0 +1,7 @@
+2025-06-02 13:01:31,205 | INFO | Started server process [7816]
+2025-06-02 13:01:31,209 | INFO | Waiting for application startup.
+2025-06-02 13:01:31,212 | INFO | Application startup complete.
+2025-06-02 13:01:39,963 | INFO | Shutting down
+2025-06-02 13:01:40,070 | INFO | Waiting for application shutdown.
+2025-06-02 13:01:40,075 | INFO | Application shutdown complete.
+2025-06-02 13:01:40,082 | INFO | Finished server process [7816]
