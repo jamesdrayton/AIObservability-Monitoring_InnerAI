@@ -3,8 +3,9 @@ from langchain.prompts import PromptTemplate
 from langchain_google_genai import GoogleGenerativeAIEmbeddings
 from langchain_core.prompts import ChatPromptTemplate
 from sklearn.metrics.pairwise import cosine_similarity
+from ..dashboard.metrics_dashboard import processed_metrics
 import numpy as np
-
+import json
 import os
 
 # Set your API key
@@ -43,7 +44,7 @@ chain = prompt | llm_base
 
 # Run the chain with a specific input
 
-def evaluate_metrics(model, given_prompt, latency, drift_threshold = 0.85):
+def evaluate_metrics(id, model, given_prompt, given_response, latency, drift_threshold = 0.85):
     llm_base = ChatGoogleGenerativeAI(model=model)
     llm_v2 = ChatGoogleGenerativeAI(model=model)
 
@@ -67,22 +68,46 @@ def evaluate_metrics(model, given_prompt, latency, drift_threshold = 0.85):
     # Embedding comparison for drift detection
     vec_base = embedding_model.embed_query(result_base)
     vec_v2 = embedding_model.embed_query(result_v2)
-    similarity = cosine_similarity([vec_base], [vec_v2])[0][0]
+    drift = cosine_similarity([vec_base], [vec_v2])[0][0]
 
     # Determine drift
-    drift_status = "Drift Detected" if similarity < drift_threshold else "No Drift"
+    drift_status = "Drift Detected" if drift < drift_threshold else "No Drift"
 
     print("\n--- Evaluation ---")
     print(f"Latency: {latency} s")
     print(f"Response:\n{response_base}")
     # print(f"Response (Baseline):\n{response_v2}")
-    print(f"Cosine Similarity: {similarity:.3f} --> {drift_status}")
+    print(f"Cosine Similarity: {drift:.3f} --> {drift_status}")
     print("-------------------")
     # TODO: Record all of the processed metrics and add to json object to give to metrics dashboard (check comments in metrics_dashboard.py)
 
+    info = {
+        "id": id,
+        "model": model,
+        "prompt": given_prompt,
+        "response": given_response,
+        "latency": latency,
+        "drift": drift,
+        "drift_status": drift_status,
+        "entropy": [],
+        "relevance": 0.0
+        }
+    
+    # print(info)
+    
+    try:
+        processed_json = json.dumps(info)
+        # print(processed_json)
+    except TypeError as e:
+        print("Serialization error:", e)
+
+    # print(processed_json)
+
+    processed_metrics(processed_json)
+
     latency_history.append(latency)
 
-    return similarity
+    return drift
 
 # evaluate_metrics(100, 100)
 # evaluate_metrics(10, 1000)

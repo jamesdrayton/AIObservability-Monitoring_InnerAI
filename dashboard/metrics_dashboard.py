@@ -9,6 +9,7 @@ router = APIRouter()
 # md.processed_metrics(processed_json)
 
 def processed_metrics(processed_json):
+    print(processed_json)
     latency = processed_json.get("latency")
 
 # md.record_latency("gpt-4", "user_prompt", latency=1.23)
