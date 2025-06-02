@@ -202,7 +202,7 @@ if __name__ == "__main__":
     The Eiffel Tower is located in Berlin. Paris is the capital of France. The Great Wall of China can be seen from space.
     """
     # read json file and retriteve the response text
-    filename = "sample_json.json"
+    filename = "C:\\Users\\tamog\\OneDrive\\Desktop\\AIObservability-Monitoring_InnerAI\\logs\\1748891749_005353.json"
 
     if os.path.exists(filename):
         with open(filename, "r") as f:
