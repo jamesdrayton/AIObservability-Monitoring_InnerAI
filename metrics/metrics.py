@@ -78,6 +78,7 @@ def evaluate_metrics(model, given_prompt, latency, drift_threshold = 0.85):
     # print(f"Response (Baseline):\n{response_v2}")
     print(f"Cosine Similarity: {similarity:.3f} --> {drift_status}")
     print("-------------------")
+    # TODO: Record all of the processed metrics and add to json object to give to metrics dashboard (check comments in metrics_dashboard.py)
 
     latency_history.append(latency)
 
