@@ -11,6 +11,12 @@ Team Participant Names:
 
 Amogh Thoutu, Farhan Mahamud, Shubhangi Singh, Bardia Azami
 
+Purpose: Create a middleware solution which can integrate into target audience apps (requiring developer access)
+
+Audience: Text-based GenAI applications. Anything that includes sending a text prompt to an LLM and which receives text back (can reduce scope if this is too much)
+
+This application is designed to act as middleware between calls to an LLM from a GenAI application and the actual LLM being used by the application. It will do this by replacing the python function calls which prompt the LLM for a response and wrapping that function call in additional monitoring and testing code. It's composed of 4 modules: an APIWrapper, metrics, dashboard, and testing (a simulated end user)
+
 ------------------------------------------------------- -
 
 AWS Codes:
