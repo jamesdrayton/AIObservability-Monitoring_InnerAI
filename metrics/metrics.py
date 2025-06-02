@@ -22,7 +22,7 @@ token_usage_history = [500, 750, 600, 1200]
 metric_template = """
     You are a specialist in tracking and evaluation the performance of results from prompts
 
-    You will be given variables such as latency, given in milliseconds (ms). Using this information, you must return whether there is an anomaly or not.
+    You will be given variables such as latency, given in seconds (s). Using this information, you must return whether there is an anomaly or not.
 
     You will also be given a history for previous latenciues. This will be used as your reference and comparison point.
 
@@ -43,9 +43,12 @@ chain = prompt | llm_base
 
 # Run the chain with a specific input
 
-def evaluate_metrics(latency, drift_threshold = 0.85):
+def evaluate_metrics(model, given_prompt, latency, drift_threshold = 0.85):
+    llm_base = ChatGoogleGenerativeAI(model=model)
+    llm_v2 = ChatGoogleGenerativeAI(model=model)
+
     chain_base = prompt | llm_base
-    chain_v2 = prompt | llm_v2
+    # chain_v2 = prompt | llm_v2
 
     response_base = chain_base.invoke({
         "latency": latency,
@@ -54,29 +57,32 @@ def evaluate_metrics(latency, drift_threshold = 0.85):
         # "token_usage_history": token_usage_history
         }).content
 
-    response_v2 = chain_v2.invoke({
-        "latency": latency,
-        # "token_usage": token_usage,
-        "latency_history": latency_history,
-        # "token_usage_history": token_usage_history
-        }).content
+    # chain_base = given_prompt | llm_base
+    # chain_v2 = given_prompt | llm_v2
+
+    result_base = llm_base.invoke(given_prompt).content
+
+    result_v2 = llm_v2.invoke(given_prompt).content
 
     # Embedding comparison for drift detection
-    vec_base = embedding_model.embed_query(response_base)
-    vec_v2 = embedding_model.embed_query(response_v2)
+    vec_base = embedding_model.embed_query(result_base)
+    vec_v2 = embedding_model.embed_query(result_v2)
     similarity = cosine_similarity([vec_base], [vec_v2])[0][0]
 
     # Determine drift
     drift_status = "Drift Detected" if similarity < drift_threshold else "No Drift"
 
     print("\n--- Evaluation ---")
-    print(f"Latency: {latency} ms")
-    print(f"Response (Current):\n{response_base}")
-    print(f"Response (Baseline):\n{response_v2}")
+    print(f"Latency: {latency} s")
+    print(f"Response:\n{response_base}")
+    # print(f"Response (Baseline):\n{response_v2}")
     print(f"Cosine Similarity: {similarity:.3f} --> {drift_status}")
     print("-------------------")
+    # TODO: Record all of the processed metrics and add to json object to give to metrics dashboard (check comments in metrics_dashboard.py)
 
     latency_history.append(latency)
+
+    return similarity
 
 # evaluate_metrics(100, 100)
 # evaluate_metrics(10, 1000)
