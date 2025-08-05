@@ -9,7 +9,7 @@ import json
 import os
 
 # Set your API key
-os.environ["GOOGLE_API_KEY"] = "AIzaSyAWXDUtgIf8dWKYTMxA1HxMDgDyIml8QYY"
+os.environ["GOOGLE_API_KEY"] = ""
 
 # Initialize Gemini model
 llm_base = ChatGoogleGenerativeAI(model="gemini-2.0-flash-001")
