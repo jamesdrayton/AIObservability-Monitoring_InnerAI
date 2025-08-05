@@ -9453,3 +9453,50 @@ asyncio.exceptions.CancelledError
 2025-06-02 17:18:51,705 | INFO | Waiting for application shutdown.
 2025-06-02 17:18:51,706 | INFO | Application shutdown complete.
 2025-06-02 17:18:51,707 | INFO | Finished server process [39376]
+2025-08-05 09:08:26,365 | INFO | Will watch for changes in these directories: ['C:\\Users\\james\\AISD\\hackathon\\AIObservability-Monitoring_InnerAI']
+2025-08-05 09:08:26,370 | INFO | Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2025-08-05 09:08:26,372 | INFO | Started reloader process [23400] using WatchFiles
+2025-08-05 09:08:32,451 | INFO | Started server process [16868]
+2025-08-05 09:08:32,456 | INFO | Waiting for application startup.
+2025-08-05 09:08:32,458 | INFO | Application startup complete.
+2025-08-05 09:11:33,766 | INFO | Shutting down
+2025-08-05 09:11:33,873 | INFO | Waiting for application shutdown.
+2025-08-05 09:11:33,874 | INFO | Application shutdown complete.
+2025-08-05 09:11:33,876 | INFO | Finished server process [16868]
+2025-08-05 09:11:36,509 | INFO | Stopping reloader process [23400]
+2025-08-05 09:19:46,797 | INFO | Will watch for changes in these directories: ['C:\\Users\\james\\AISD\\hackathon\\AIObservability-Monitoring_InnerAI']
+2025-08-05 09:19:46,802 | INFO | Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2025-08-05 09:19:46,805 | INFO | Started reloader process [25448] using WatchFiles
+2025-08-05 09:19:55,123 | INFO | Started server process [2672]
+2025-08-05 09:19:55,127 | INFO | Waiting for application startup.
+2025-08-05 09:19:55,131 | INFO | Application startup complete.
+2025-08-05 09:44:49,637 | INFO | Shutting down
+2025-08-05 09:44:49,747 | INFO | Waiting for application shutdown.
+2025-08-05 09:44:49,754 | INFO | Application shutdown complete.
+2025-08-05 09:44:49,758 | INFO | Finished server process [2672]
+2025-08-05 09:44:53,435 | INFO | Stopping reloader process [25448]
+2025-08-05 09:55:58,021 | INFO | Will watch for changes in these directories: ['C:\\Users\\james\\AISD\\hackathon\\AIObservability-Monitoring_InnerAI']
+2025-08-05 09:55:58,023 | INFO | Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2025-08-05 09:55:58,025 | INFO | Started reloader process [5252] using WatchFiles
+2025-08-05 09:56:02,853 | INFO | Started server process [13464]
+2025-08-05 09:56:02,857 | INFO | Waiting for application startup.
+2025-08-05 09:56:02,860 | INFO | Application startup complete.
+2025-08-05 09:56:44,257 | INFO | 1 change detected
+2025-08-05 09:56:44,266 | WARNING | WatchFiles detected changes in 'metrics\metrics.py'. Reloading...
+2025-08-05 09:56:44,301 | INFO | Shutting down
+2025-08-05 09:56:44,409 | INFO | Waiting for application shutdown.
+2025-08-05 09:56:44,411 | INFO | Application shutdown complete.
+2025-08-05 09:56:44,413 | INFO | Finished server process [13464]
+2025-08-05 09:56:47,265 | INFO | 1 change detected
+2025-08-05 09:56:49,705 | INFO | 5 changes detected
+2025-08-05 09:56:52,238 | INFO | Started server process [11284]
+2025-08-05 09:56:52,242 | INFO | Waiting for application startup.
+2025-08-05 09:56:52,244 | INFO | Application startup complete.
+2025-08-05 09:57:27,950 | INFO | {'prompt': 'Hi, could you write me a poem about a pepper shaker?', 'metadata': {}, 'model': 'models/gemini-2.0-flash', 'response': "Here's a poem about a pepper shaker:\n\nA tiny tower, dark and sleek,\nA pepper palace, secrets speak.\nOf distant lands and sun-baked ground,\nWhere peppercorns, in clusters, crowned.\n\nWith gentle shake, a storm descends,\nA pungent dust that quickly blends.\nA fiery kiss upon the tongue,\nWhere blandness fled, and flavors sprung.\n\nA humble tool, yet holds the key,\nTo unlock taste, for you and me.\nA silent partner, at the meal,\nIts spicy magic, makes it real.\n\nwashington", 'latency_sec': 1.543, 'status': 'success'}
+2025-08-05 09:57:28,030 | INFO | 1 change detected
+2025-08-05 09:57:34,339 | ERROR | {'prompt': 'Hi, could you write me a poem about a pepper shaker?', 'metadata': {}, 'model': 'models/gemini-2.0-flash', 'response': "Here's a poem about a pepper shaker:\n\nA tiny tower, dark and sleek,\nA pepper palace, secrets speak.\nOf distant lands and sun-baked ground,\nWhere peppercorns, in clusters, crowned.\n\nWith gentle shake, a storm descends,\nA pungent dust that quickly blends.\nA fiery kiss upon the tongue,\nWhere blandness fled, and flavors sprung.\n\nA humble tool, yet holds the key,\nTo unlock taste, for you and me.\nA silent partner, at the meal,\nIts spicy magic, makes it real.\n\nwashington", 'latency_sec': 7.933, 'status': 'error', 'error': "'str' object has no attribute 'get'"}
+2025-08-05 09:57:40,098 | INFO | Shutting down
+2025-08-05 09:57:40,207 | INFO | Waiting for application shutdown.
+2025-08-05 09:57:40,209 | INFO | Application shutdown complete.
+2025-08-05 09:57:40,212 | INFO | Finished server process [11284]
+2025-08-05 09:57:42,674 | INFO | Stopping reloader process [5252]

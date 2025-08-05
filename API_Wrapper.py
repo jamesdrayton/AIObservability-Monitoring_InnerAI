@@ -1,3 +1,4 @@
+#TODO: Ensure this file isn't used anywhere and delete
 # Gemini API Wrapper
 import google.generativeai as genai 
  
